@@ -1,0 +1,61 @@
+[package]
+name = "nai-assistant"
+version = "0.12.6"
+description = "NovelAI Image Studio"
+authors = ["sunakgo"]
+license = "MIT"
+repository = "https://github.com/anjaymi/NAI_Assistant"
+edition = "2021"
+rust-version = "1.88"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[lib]
+name = "app_lib"
+crate-type = ["staticlib", "cdylib", "rlib"]
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[dependencies]
+serde_json = "1.0"
+serde = { version = "1.0", features = ["derive"] }
+log = "0.4"
+tauri = { version = "2", features = ["protocol-asset", "unstable"] }
+tauri-plugin-log = "2"
+tauri-plugin-fs = "2"
+tauri-plugin-http = "2"
+tauri-plugin-store = "2"
+tauri-plugin-dialog = "2"
+tauri-plugin-shell = "2"
+tauri-plugin-opener = "2.5.2"
+
+tauri-plugin-process = "2"
+reqwest = { version = "0.12", features = ["json", "rustls-tls", "stream", "multipart"], default-features = false }
+tokio = { version = "1", features = ["full"] }
+futures-util = "0.3"
+base64 = "0.22"
+axum = { version = "0.8", features = ["multipart"] }
+tower-http = { version = "0.6", features = ["cors"] }
+
+sha2 = "0.10.9"
+hex = "0.4.3"
+dirs = "6"
+chrono = "0.4"
+tauri-plugin-sql = { version = "2", features = ["sqlite"] }
+tauri-plugin-deep-link = "2"
+hostname = "0.4.2"
+arboard = "3.6.1"
+image = { version = "0.25", default-features = false, features = ["png", "jpeg", "webp"] }
+
+[target.'cfg(windows)'.dependencies]
+windows = { version = "0.59", features = [
+    "Win32_Foundation",
+    "Win32_UI_WindowsAndMessaging",
+    "Win32_UI_Input_KeyboardAndMouse", 
+    "Win32_Graphics_Gdi"
+] }
+
+[target.'cfg(not(any(target_os = "android", target_os = "ios")))'.dependencies]
+tauri-plugin-single-instance = "2"
+zip = "2.2"

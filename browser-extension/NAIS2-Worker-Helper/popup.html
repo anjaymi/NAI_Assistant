@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NAIS2 Worker Import</title>
+  <style>
+    :root { color-scheme: dark; }
+    body { font-family: Arial, sans-serif; width: 380px; margin: 0; padding: 16px; background: linear-gradient(180deg, #0f172a 0%, #111827 100%); color: #f9fafb; }
+    input, textarea { width: 100%; box-sizing: border-box; padding: 10px 12px; border-radius: 8px; border: 1px solid #374151; background: #0b1220; color: #f9fafb; }
+    input:focus, textarea:focus { outline: none; border-color: #60a5fa; box-shadow: 0 0 0 3px rgba(96, 165, 250, 0.15); }
+    textarea { min-height: 180px; resize: vertical; font-family: Consolas, monospace; font-size: 12px; line-height: 1.5; }
+    button { width: 100%; margin-top: 10px; padding: 11px 12px; border: 0; border-radius: 8px; background: linear-gradient(180deg, #3b82f6 0%, #2563eb 100%); color: white; cursor: pointer; font-weight: 600; }
+    button.secondary { background: #1f2937; color: #e5e7eb; border: 1px solid #374151; }
+    button:disabled { cursor: wait; opacity: .62; filter: grayscale(.2); }
+    button:hover { filter: brightness(1.05); }
+    .hero { padding: 14px; border-radius: 8px; background: rgba(59, 130, 246, 0.10); border: 1px solid rgba(96, 165, 250, 0.18); }
+    .title { margin: 0; font-size: 18px; font-weight: 700; }
+    .muted { font-size: 12px; line-height: 1.6; color: #cbd5e1; }
+    .section { margin-top: 14px; padding: 14px; border-radius: 8px; background: rgba(17, 24, 39, 0.72); border: 1px solid #243041; }
+    .section-title { margin-bottom: 8px; font-size: 12px; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; color: #93c5fd; }
+    .status { font-size: 12px; min-height: 18px; margin-top: 10px; padding: 10px 12px; border-radius: 8px; background: rgba(59, 130, 246, 0.10); color: #93c5fd; }
+    .status.success { color: #86efac; }
+    .status.error { color: #fca5a5; }
+    .status.info { color: #93c5fd; }
+    .status.success { background: rgba(34, 197, 94, 0.12); }
+    .status.error { background: rgba(239, 68, 68, 0.12); }
+    .status.info { background: rgba(59, 130, 246, 0.10); }
+    ol { padding-left: 18px; margin: 0; color: #cbd5e1; font-size: 12px; line-height: 1.7; }
+    .tip { margin-top: 8px; font-size: 11px; color: #94a3b8; }
+    .steps { display: grid; gap: 8px; }
+    .step { display: flex; align-items: center; gap: 10px; padding: 10px 12px; border-radius: 8px; background: #0b1220; border: 1px solid #243041; }
+    .step.done { border-color: rgba(34, 197, 94, 0.45); background: rgba(34, 197, 94, 0.10); }
+    .step-badge { width: 22px; height: 22px; border-radius: 999px; display: inline-flex; align-items: center; justify-content: center; font-size: 12px; font-weight: 700; background: #1e293b; color: #cbd5e1; }
+    .step.done .step-badge { background: #16a34a; color: white; }
+    .step-text { font-size: 12px; line-height: 1.5; color: #cbd5e1; }
+  </style>
+</head>
+<body>
+  <div class="hero">
+    <h3 class="title">Cloudflare Worker 向导</h3>
+    <p class="muted">给不会写代码的用户准备。按顺序点击按钮，就能把自己的 Worker 配置到 NAI Assistant。</p>
+  </div>
+
+  <div class="section">
+    <div class="section-title">当前进度</div>
+    <div class="steps">
+      <div class="step" id="step-open-cloudflare">
+        <div class="step-badge">1</div>
+        <div class="step-text">已打开 Cloudflare Workers 页面</div>
+      </div>
+      <div class="step" id="step-worker-ready">
+        <div class="step-badge">2</div>
+        <div class="step-text">已部署并测试 Worker 地址</div>
+      </div>
+      <div class="step" id="step-imported">
+        <div class="step-badge">3</div>
+        <div class="step-text">已准备导入到 NAI Assistant</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">第一步：打开页面与复制模板</div>
+    <button id="openCloudflare">打开 Cloudflare Workers 页面</button>
+    <button id="startGuide" class="secondary">开启页面高亮引导</button>
+    <button id="copyWorkerCode" class="secondary">复制 Worker 代码模板</button>
+    <div class="status" id="status" role="status" aria-live="polite"></div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">操作顺序</div>
+    <ol>
+      <li>点上面的“打开 Cloudflare Workers 页面”</li>
+      <li>登录 Cloudflare 账号</li>
+      <li>新建 Worker，把下面代码全量替换进去</li>
+      <li>点击部署</li>
+      <li>把部署后的 `workers.dev` 地址粘回下面输入框</li>
+    </ol>
+  </div>
+
+  <div class="section">
+    <div class="section-title">Worker 代码模板</div>
+    <textarea id="workerCode" readonly></textarea>
+    <div class="tip">复制后直接覆盖 Cloudflare 编辑器中的默认代码即可。</div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">第二步：测试并导入</div>
+    <input id="workerUrl" placeholder="https://your-worker.workers.dev 或完整的 /api/nai/subscription 地址" />
+    <button id="testWorker" class="secondary">测试 Worker 地址</button>
+    <button id="openApp">一键导入到 NAI Assistant</button>
+    <p class="muted">会打开 `nais2://` 深链，把 Worker 地址写入桌面端设置。</p>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+name = "nai-airdrop-relay"
+main = "src/index.ts"
+compatibility_date = "2024-02-28"
+
+# 我们需要一个 KV 空间来存储临时的 Push 信号。
+# wrangler kv:namespace create AIRDROP_SIGNALS
+kv_namespaces = [
+  { binding = "AIRDROP_SIGNALS", id = "REPLACE_WITH_KV_NAMESPACE_ID" }
+]

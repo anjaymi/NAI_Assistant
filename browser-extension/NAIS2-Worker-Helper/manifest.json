@@ -1,0 +1,46 @@
+{
+  "manifest_version": 3,
+  "name": "NAIS2 Worker Import",
+  "version": "0.1.1",
+  "description": "Guided Cloudflare Worker setup and one-click import into NAI Assistant.",
+  "icons": {
+    "32": "icon-32.png",
+    "64": "icon-64.png",
+    "128": "icon-128.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Import Worker URL",
+    "default_icon": {
+      "32": "icon-32.png",
+      "64": "icon-64.png",
+      "128": "icon-128.png"
+    }
+  },
+  "permissions": [
+    "storage",
+    "tabs"
+  ],
+  "host_permissions": [
+    "https://dash.cloudflare.com/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://dash.cloudflare.com/*"
+      ],
+      "js": [
+        "guide-steps.js",
+        "guide-state.js",
+        "guide-selectors.js",
+        "guide-panel.js",
+        "guide-actions.js",
+        "guide-bindings.js",
+        "guide-runtime.js",
+        "guide-controller.js",
+        "guide.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ]
+}

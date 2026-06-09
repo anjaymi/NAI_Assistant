@@ -1,0 +1,4100 @@
+{
+  "负面实践": [
+    {
+      "label": "too many fingers",
+      "value": "too many fingers",
+      "cn": "手指太多"
+    },
+    {
+      "label": "poorly drawn hands",
+      "value": "poorly drawn hands",
+      "cn": "画得不好的手"
+    },
+    {
+      "label": "duplicate",
+      "value": "duplicate",
+      "cn": "复制品"
+    },
+    {
+      "label": "cropped",
+      "value": "cropped",
+      "cn": "裁剪过的"
+    },
+    {
+      "label": "blurry",
+      "value": "blurry",
+      "cn": "模糊不清的"
+    },
+    {
+      "label": "missing fingers",
+      "value": "missing fingers",
+      "cn": "确收手指"
+    },
+    {
+      "label": "extra legs",
+      "value": "extra legs",
+      "cn": "额外的支腿"
+    },
+    {
+      "label": "malformed mutated",
+      "value": "malformed mutated",
+      "cn": "畸形突变"
+    },
+    {
+      "label": "limb",
+      "value": "limb",
+      "cn": "肢"
+    },
+    {
+      "label": "worst quality",
+      "value": "worst quality",
+      "cn": "最差质量"
+    },
+    {
+      "label": "more than 2 thighs",
+      "value": "more than 2 thighs",
+      "cn": "2条以上大腿"
+    },
+    {
+      "label": "mutated hands",
+      "value": "mutated hands",
+      "cn": "变异的手"
+    },
+    {
+      "label": "jpeg artifacts",
+      "value": "jpeg artifacts",
+      "cn": "jpg压缩效果"
+    },
+    {
+      "label": "disfigured",
+      "value": "disfigured",
+      "cn": "毁容的"
+    },
+    {
+      "label": "low quality",
+      "value": "low quality",
+      "cn": "低质量"
+    },
+    {
+      "label": "mutated hands and fingers",
+      "value": "mutated hands and fingers",
+      "cn": "突变的手"
+    },
+    {
+      "label": "text",
+      "value": "text",
+      "cn": "文本"
+    },
+    {
+      "label": "bad anatomy disfigured malformed mutated",
+      "value": "bad anatomy disfigured malformed mutated",
+      "cn": "解剖结构不良+畸形变异"
+    },
+    {
+      "label": "poorly drawn",
+      "value": "poorly drawn",
+      "cn": "很惨的绘画"
+    },
+    {
+      "label": "mutation poorly drawn",
+      "value": "mutation poorly drawn",
+      "cn": "突变绘制不佳"
+    },
+    {
+      "label": "jpegartifacts",
+      "value": "jpegartifacts",
+      "cn": "jpegartifacts"
+    },
+    {
+      "label": "extra digit",
+      "value": "extra digit",
+      "cn": "额外数字"
+    },
+    {
+      "label": "watermark",
+      "value": "watermark",
+      "cn": "水印"
+    },
+    {
+      "label": "mutated",
+      "value": "mutated",
+      "cn": "变异的"
+    },
+    {
+      "label": "bad anatomy",
+      "value": "bad anatomy",
+      "cn": "解剖结构不好"
+    },
+    {
+      "label": "artist name",
+      "value": "artist name",
+      "cn": "艺术家姓名"
+    },
+    {
+      "label": "bad face",
+      "value": "bad face",
+      "cn": "坏面孔"
+    },
+    {
+      "label": "long body",
+      "value": "long body",
+      "cn": "长机身"
+    },
+    {
+      "label": "morbid",
+      "value": "morbid",
+      "cn": "病态的"
+    },
+    {
+      "label": "extra limbs",
+      "value": "extra limbs",
+      "cn": "额外的肢体"
+    },
+    {
+      "label": "username",
+      "value": "username",
+      "cn": "用户名"
+    },
+    {
+      "label": "mutated hands and fingers",
+      "value": "mutated hands and fingers",
+      "cn": "变异的手和手指"
+    },
+    {
+      "label": "out of frame",
+      "value": "out of frame",
+      "cn": "帧外"
+    },
+    {
+      "label": "bad feet",
+      "value": "bad feet",
+      "cn": "脚不好"
+    },
+    {
+      "label": "malformed",
+      "value": "malformed",
+      "cn": "畸形的"
+    },
+    {
+      "label": "bad hands",
+      "value": "bad hands",
+      "cn": "坏手"
+    },
+    {
+      "label": "fewer digits",
+      "value": "fewer digits",
+      "cn": "更少的数字"
+    },
+    {
+      "label": "cloned face",
+      "value": "cloned face",
+      "cn": "克隆的脸"
+    },
+    {
+      "label": "malformed hands",
+      "value": "malformed hands",
+      "cn": "畸形手"
+    },
+    {
+      "label": "unclear eyes",
+      "value": "unclear eyes",
+      "cn": "眼睛不清"
+    },
+    {
+      "label": "three arms",
+      "value": "three arms",
+      "cn": "三个手臂"
+    },
+    {
+      "label": "worstquality",
+      "value": "worstquality",
+      "cn": "最差品质"
+    },
+    {
+      "label": "malformed limbs",
+      "value": "malformed limbs",
+      "cn": "畸形肢体"
+    },
+    {
+      "label": "deformed",
+      "value": "deformed",
+      "cn": "变形的，变形的"
+    },
+    {
+      "label": "lowers",
+      "value": "lowers",
+      "cn": "低品质的"
+    },
+    {
+      "label": "extra digt",
+      "value": "extra digt",
+      "cn": "额外的数字"
+    },
+    {
+      "label": "tranny",
+      "value": "tranny",
+      "cn": "特兰尼"
+    },
+    {
+      "label": "ugly",
+      "value": "ugly",
+      "cn": "丑陋的"
+    },
+    {
+      "label": "extra arms",
+      "value": "extra arms",
+      "cn": "额外的武器"
+    },
+    {
+      "label": "error",
+      "value": "error",
+      "cn": "错误"
+    },
+    {
+      "label": "three legs",
+      "value": "three legs",
+      "cn": "三条腿"
+    },
+    {
+      "label": "poorly drawn",
+      "value": "poorly drawn",
+      "cn": "绘制不良"
+    },
+    {
+      "label": "signature",
+      "value": "signature",
+      "cn": "签名"
+    },
+    {
+      "label": "missing legs",
+      "value": "missing legs",
+      "cn": "缺腿"
+    },
+    {
+      "label": "missing fingers",
+      "value": "missing fingers",
+      "cn": "丢失的手指"
+    },
+    {
+      "label": "humpbacked",
+      "value": "humpbacked",
+      "cn": "驼背的"
+    },
+    {
+      "label": "mutilated",
+      "value": "mutilated",
+      "cn": "残缺不全的"
+    },
+    {
+      "label": "nsfw",
+      "value": "nsfw",
+      "cn": "nsfw"
+    },
+    {
+      "label": "long neck",
+      "value": "long neck",
+      "cn": "长脖子"
+    },
+    {
+      "label": "text font ui",
+      "value": "text font ui",
+      "cn": "文本"
+    },
+    {
+      "label": "bad proportions",
+      "value": "bad proportions",
+      "cn": "比例不好"
+    },
+    {
+      "label": "Missing limbs",
+      "value": "Missing limbs",
+      "cn": "缺少肢体"
+    },
+    {
+      "label": "futa",
+      "value": "futa",
+      "cn": "扶他"
+    },
+    {
+      "label": "parody",
+      "value": "parody",
+      "cn": "拙劣的模仿"
+    },
+    {
+      "label": "large breasts",
+      "value": "large breasts",
+      "cn": "大乳房"
+    },
+    {
+      "label": "normal quality",
+      "value": "normal quality",
+      "cn": "正常质量"
+    },
+    {
+      "label": "poorly drawn face",
+      "value": "poorly drawn face",
+      "cn": "绘制不良的脸"
+    }
+  ],
+  "环境": [
+    {
+      "label": "light_leaks",
+      "value": "light_leaks",
+      "cn": "漏出光线"
+    },
+    {
+      "label": "bloom",
+      "value": "bloom",
+      "cn": "开花"
+    },
+    {
+      "label": "sky",
+      "value": "sky",
+      "cn": "天空"
+    },
+    {
+      "label": "strong rim light",
+      "value": "strong rim light",
+      "cn": "强边缘光"
+    },
+    {
+      "label": "ocean",
+      "value": "ocean",
+      "cn": "大海"
+    },
+    {
+      "label": "lens_flare",
+      "value": "lens_flare",
+      "cn": "镜头光斑"
+    },
+    {
+      "label": "over the sea",
+      "value": "over the sea",
+      "cn": "海边上"
+    },
+    {
+      "label": "detailed light",
+      "value": "detailed light",
+      "cn": "细节照明"
+    },
+    {
+      "label": "autumn",
+      "value": "autumn",
+      "cn": "秋天"
+    },
+    {
+      "label": "depth of field",
+      "value": "depth of field",
+      "cn": "景深"
+    },
+    {
+      "label": "overexposure",
+      "value": "overexposure",
+      "cn": "过度曝光"
+    },
+    {
+      "label": "best shadow",
+      "value": "best shadow",
+      "cn": "最佳阴影"
+    },
+    {
+      "label": "stars",
+      "value": "stars",
+      "cn": "星星"
+    },
+    {
+      "label": "summer",
+      "value": "summer",
+      "cn": "夏"
+    },
+    {
+      "label": "spring",
+      "value": "spring",
+      "cn": "春"
+    },
+    {
+      "label": "in a meadow",
+      "value": "in a meadow",
+      "cn": "草地"
+    },
+    {
+      "label": "cinematic lighting",
+      "value": "cinematic lighting",
+      "cn": "电影照明"
+    },
+    {
+      "label": "golden hour lighting",
+      "value": "golden hour lighting",
+      "cn": "黄金时段照明"
+    },
+    {
+      "label": "in hawaii",
+      "value": "in hawaii",
+      "cn": "夏威夷"
+    },
+    {
+      "label": "the top of the hill",
+      "value": "the top of the hill",
+      "cn": "山顶"
+    },
+    {
+      "label": "beautiful detailed glow",
+      "value": "beautiful detailed glow",
+      "cn": "美丽的细节辉光"
+    },
+    {
+      "label": "breeze",
+      "value": "breeze",
+      "cn": "微风"
+    },
+    {
+      "label": "sunlight",
+      "value": "sunlight",
+      "cn": "阳光"
+    },
+    {
+      "label": "burning",
+      "value": "burning",
+      "cn": "燃烧"
+    },
+    {
+      "label": "beautiful detailed sky",
+      "value": "beautiful detailed sky",
+      "cn": "好天"
+    },
+    {
+      "label": "red moon",
+      "value": "red moon",
+      "cn": "红色的月亮"
+    },
+    {
+      "label": "beautiful detailed water",
+      "value": "beautiful detailed water",
+      "cn": "好水"
+    },
+    {
+      "label": "against backlight at dusk",
+      "value": "against backlight at dusk",
+      "cn": "傍晚背对阳光"
+    },
+    {
+      "label": "on a hill",
+      "value": "on a hill",
+      "cn": "山上"
+    },
+    {
+      "label": "winter",
+      "value": "winter",
+      "cn": "冬"
+    },
+    {
+      "label": "sea",
+      "value": "sea",
+      "cn": "大海"
+    },
+    {
+      "label": "plateau",
+      "value": "plateau",
+      "cn": "高原"
+    },
+    {
+      "label": "on the beach",
+      "value": "on the beach",
+      "cn": "海滩上"
+    },
+    {
+      "label": "intense shadows",
+      "value": "intense shadows",
+      "cn": "强阴影"
+    },
+    {
+      "label": "on a desert",
+      "value": "on a desert",
+      "cn": "沙漠"
+    },
+    {
+      "label": "mountain",
+      "value": "mountain",
+      "cn": "山"
+    }
+  ],
+  "基础动作": [
+    {
+      "label": "sleeping",
+      "value": "sleeping",
+      "cn": "睡觉"
+    },
+    {
+      "label": "smelling",
+      "value": "smelling",
+      "cn": "闻"
+    },
+    {
+      "label": "looking up",
+      "value": "looking up",
+      "cn": "向上看"
+    },
+    {
+      "label": "grovel",
+      "value": "grovel",
+      "cn": "趴"
+    },
+    {
+      "label": "floating",
+      "value": "floating",
+      "cn": "浮动"
+    },
+    {
+      "label": "against wall",
+      "value": "against wall",
+      "cn": "靠墙"
+    },
+    {
+      "label": "head tilt",
+      "value": "head tilt",
+      "cn": "歪头"
+    },
+    {
+      "label": "sitting",
+      "value": "sitting",
+      "cn": "坐"
+    },
+    {
+      "label": "jump",
+      "value": "jump",
+      "cn": "跳"
+    },
+    {
+      "label": "walk",
+      "value": "walk",
+      "cn": "走"
+    },
+    {
+      "label": "looking down",
+      "value": "looking down",
+      "cn": "向下看"
+    },
+    {
+      "label": "looking back",
+      "value": "looking back",
+      "cn": "回头"
+    },
+    {
+      "label": "lie",
+      "value": "lie",
+      "cn": "躺"
+    },
+    {
+      "label": "stand",
+      "value": "stand",
+      "cn": "站"
+    },
+    {
+      "label": "fly",
+      "value": "fly",
+      "cn": "飞"
+    },
+    {
+      "label": "run",
+      "value": "run",
+      "cn": "跑"
+    },
+    {
+      "label": "bathing",
+      "value": "bathing",
+      "cn": "洗澡"
+    },
+    {
+      "label": "looking_at_viewers",
+      "value": "looking_at_viewers",
+      "cn": "看着观众"
+    },
+    {
+      "label": "squating",
+      "value": "squating",
+      "cn": "蹲着"
+    }
+  ],
+  "身份": [
+    {
+      "label": "yaoi",
+      "value": "yaoi",
+      "cn": "搞基"
+    },
+    {
+      "label": "yuri",
+      "value": "yuri",
+      "cn": "百合"
+    },
+    {
+      "label": "minigirl",
+      "value": "minigirl",
+      "cn": "迷你女孩"
+    },
+    {
+      "label": "doll",
+      "value": "doll",
+      "cn": "人偶"
+    },
+    {
+      "label": "vampire",
+      "value": "vampire",
+      "cn": "吸血鬼"
+    },
+    {
+      "label": "orc",
+      "value": "orc",
+      "cn": "半兽人"
+    },
+    {
+      "label": "elf",
+      "value": "elf",
+      "cn": "妖精"
+    },
+    {
+      "label": "loli",
+      "value": "loli",
+      "cn": "萝莉"
+    },
+    {
+      "label": "chibi",
+      "value": "chibi",
+      "cn": "Q版人物"
+    },
+    {
+      "label": "monster",
+      "value": "monster",
+      "cn": "怪物"
+    },
+    {
+      "label": "no_humans",
+      "value": "no_humans",
+      "cn": "非人"
+    },
+    {
+      "label": "magical_girl",
+      "value": "magical_girl",
+      "cn": "魔法少女"
+    },
+    {
+      "label": "furry",
+      "value": "furry",
+      "cn": "福瑞"
+    },
+    {
+      "label": "angel",
+      "value": "angel",
+      "cn": "天使"
+    },
+    {
+      "label": "miko",
+      "value": "miko",
+      "cn": "巫女"
+    },
+    {
+      "label": "stewardess",
+      "value": "stewardess",
+      "cn": "空姐"
+    },
+    {
+      "label": "multiple_girls",
+      "value": "multiple_girls",
+      "cn": "魔幻少女"
+    },
+    {
+      "label": "idol",
+      "value": "idol",
+      "cn": "偶像"
+    },
+    {
+      "label": "robot girl",
+      "value": "robot girl",
+      "cn": "机器人女孩"
+    },
+    {
+      "label": "cheerleader",
+      "value": "cheerleader",
+      "cn": "啦啦队"
+    },
+    {
+      "label": "dark magician girl",
+      "value": "dark magician girl",
+      "cn": "黑暗魔术师女孩"
+    },
+    {
+      "label": "giantess",
+      "value": "giantess",
+      "cn": "女巨人"
+    },
+    {
+      "label": "kemonomimi_mode",
+      "value": "kemonomimi_mode",
+      "cn": "兽耳萝莉模式"
+    },
+    {
+      "label": "fairy",
+      "value": "fairy",
+      "cn": "小精灵"
+    },
+    {
+      "label": "nurse",
+      "value": "nurse",
+      "cn": "护士"
+    },
+    {
+      "label": "mermaid",
+      "value": "mermaid",
+      "cn": "美人鱼"
+    },
+    {
+      "label": "nun",
+      "value": "nun",
+      "cn": "修女"
+    },
+    {
+      "label": "witch",
+      "value": "witch",
+      "cn": "女巫"
+    },
+    {
+      "label": "waitress",
+      "value": "waitress",
+      "cn": "女服务员"
+    },
+    {
+      "label": "knight",
+      "value": "knight",
+      "cn": "骑士"
+    },
+    {
+      "label": "police",
+      "value": "police",
+      "cn": "警察"
+    },
+    {
+      "label": "student",
+      "value": "student",
+      "cn": "学生"
+    },
+    {
+      "label": "housemaid",
+      "value": "housemaid",
+      "cn": "女仆"
+    },
+    {
+      "label": "devil",
+      "value": "devil",
+      "cn": "魔鬼"
+    },
+    {
+      "label": "harem",
+      "value": "harem",
+      "cn": "后宫"
+    },
+    {
+      "label": "queen",
+      "value": "queen",
+      "cn": "女王"
+    },
+    {
+      "label": "trap",
+      "value": "trap",
+      "cn": "伪娘"
+    },
+    {
+      "label": "soldier",
+      "value": "soldier",
+      "cn": "士兵"
+    },
+    {
+      "label": "ninja",
+      "value": "ninja",
+      "cn": "忍者"
+    },
+    {
+      "label": "doctor",
+      "value": "doctor",
+      "cn": "医生"
+    }
+  ],
+  "头发": [
+    {
+      "label": "visible through hair",
+      "value": "visible through hair",
+      "cn": "可被穿过的头发"
+    },
+    {
+      "label": "drill hair",
+      "value": "drill hair",
+      "cn": "钻头卷 公主卷"
+    },
+    {
+      "label": "hair between eyes",
+      "value": "hair between eyes",
+      "cn": "眼睛之间的头发"
+    },
+    {
+      "label": "big forhead",
+      "value": "big forhead",
+      "cn": "大前额"
+    },
+    {
+      "label": "twin_braids",
+      "value": "twin_braids",
+      "cn": "双辫子"
+    },
+    {
+      "label": "disheveled hair",
+      "value": "disheveled hair",
+      "cn": "蓬乱的头发"
+    },
+    {
+      "label": "antennae hair",
+      "value": "antennae hair",
+      "cn": "多根呆毛"
+    },
+    {
+      "label": "cone hair bun",
+      "value": "cone hair bun",
+      "cn": "锥形发髻"
+    },
+    {
+      "label": "bob cut",
+      "value": "bob cut",
+      "cn": "妹妹切"
+    },
+    {
+      "label": "short hair",
+      "value": "short hair",
+      "cn": "短发"
+    },
+    {
+      "label": "hair wings",
+      "value": "hair wings",
+      "cn": "翼状头发"
+    },
+    {
+      "label": "medium hair",
+      "value": "medium hair",
+      "cn": "中发"
+    },
+    {
+      "label": "long hair",
+      "value": "long hair",
+      "cn": "长发"
+    },
+    {
+      "label": "long bangs",
+      "value": "long bangs",
+      "cn": "长刘海"
+    },
+    {
+      "label": "hime_cut",
+      "value": "hime_cut",
+      "cn": "公主切"
+    },
+    {
+      "label": "floating hair",
+      "value": "floating hair",
+      "cn": "漂浮的头发"
+    },
+    {
+      "label": "forehead",
+      "value": "forehead",
+      "cn": "露额头"
+    },
+    {
+      "label": "ahoge",
+      "value": "ahoge",
+      "cn": "呆毛"
+    },
+    {
+      "label": "grey gradient hair",
+      "value": "grey gradient hair",
+      "cn": "灰色渐变头发"
+    },
+    {
+      "label": "crossed bangs",
+      "value": "crossed bangs",
+      "cn": "交叉刘海"
+    },
+    {
+      "label": "two-tone hair",
+      "value": "two-tone hair",
+      "cn": "双色"
+    },
+    {
+      "label": "swept bangs",
+      "value": "swept bangs",
+      "cn": "侧扫刘海"
+    },
+    {
+      "label": "light brown hair",
+      "value": "light brown hair",
+      "cn": "浅棕色头发"
+    },
+    {
+      "label": "messy_long_hair",
+      "value": "messy_long_hair",
+      "cn": "凌乱的长发"
+    },
+    {
+      "label": "multicolored hair",
+      "value": "multicolored hair",
+      "cn": "五颜六色发"
+    },
+    {
+      "label": "hair pink flowers",
+      "value": "hair pink flowers",
+      "cn": "粉色花"
+    },
+    {
+      "label": "wavy hair",
+      "value": "wavy hair",
+      "cn": "波浪形头发"
+    },
+    {
+      "label": "twintails",
+      "value": "twintails",
+      "cn": "双马尾"
+    },
+    {
+      "label": "curly_hair",
+      "value": "curly_hair",
+      "cn": "卷发"
+    },
+    {
+      "label": "bangs",
+      "value": "bangs",
+      "cn": "刘海"
+    },
+    {
+      "label": "short_ponytail",
+      "value": "short_ponytail",
+      "cn": "短马尾"
+    },
+    {
+      "label": "braided ponytail",
+      "value": "braided ponytail",
+      "cn": "马尾编发"
+    },
+    {
+      "label": "very long hair",
+      "value": "very long hair",
+      "cn": "超长发"
+    },
+    {
+      "label": "double bun",
+      "value": "double bun",
+      "cn": "双包子头"
+    },
+    {
+      "label": "side ponytail",
+      "value": "side ponytail",
+      "cn": "侧马尾"
+    },
+    {
+      "label": "blunt bangs",
+      "value": "blunt bangs",
+      "cn": "齐刘海"
+    },
+    {
+      "label": "high ponytail",
+      "value": "high ponytail",
+      "cn": "高马尾"
+    },
+    {
+      "label": "ponytail",
+      "value": "ponytail",
+      "cn": "马尾辫"
+    },
+    {
+      "label": "hair bun",
+      "value": "hair bun",
+      "cn": "包子头"
+    },
+    {
+      "label": "ponytail",
+      "value": "ponytail",
+      "cn": "马尾"
+    },
+    {
+      "label": "messy_hair",
+      "value": "messy_hair",
+      "cn": "凌乱发型"
+    },
+    {
+      "label": "side blunt bangs",
+      "value": "side blunt bangs",
+      "cn": "侧面钝刘海"
+    },
+    {
+      "label": "double_bun",
+      "value": "double_bun",
+      "cn": "俩包子头"
+    },
+    {
+      "label": "streaked hair",
+      "value": "streaked hair",
+      "cn": "挑染"
+    },
+    {
+      "label": "braided bangs",
+      "value": "braided bangs",
+      "cn": "辫子刘海"
+    }
+  ],
+  "衣服": [
+    {
+      "label": "long skirt",
+      "value": "long skirt",
+      "cn": "长裙"
+    },
+    {
+      "label": "bikini",
+      "value": "bikini",
+      "cn": "比基尼"
+    },
+    {
+      "label": "JK",
+      "value": "JK",
+      "cn": "JK"
+    },
+    {
+      "label": "japanese_clothes",
+      "value": "japanese_clothes",
+      "cn": "和服"
+    },
+    {
+      "label": "cowboy western",
+      "value": "cowboy western",
+      "cn": "西部牛仔"
+    },
+    {
+      "label": "bra",
+      "value": "bra",
+      "cn": "文胸"
+    },
+    {
+      "label": "white silk stocking",
+      "value": "white silk stocking",
+      "cn": "白色丝袜"
+    },
+    {
+      "label": "chemise",
+      "value": "chemise",
+      "cn": "吊带胸衣"
+    },
+    {
+      "label": "bike_shorts",
+      "value": "bike_shorts",
+      "cn": "自行车短裤"
+    },
+    {
+      "label": "bikini_top",
+      "value": "bikini_top",
+      "cn": "上身比基尼"
+    },
+    {
+      "label": "bloomers",
+      "value": "bloomers",
+      "cn": "灯笼裤"
+    },
+    {
+      "label": "bikini top only",
+      "value": "bikini top only",
+      "cn": "只有上身比基尼"
+    },
+    {
+      "label": "dolphin shorts",
+      "value": "dolphin shorts",
+      "cn": "海豚短裤"
+    },
+    {
+      "label": "gothic_lolita",
+      "value": "gothic_lolita",
+      "cn": "哥特洛丽塔"
+    },
+    {
+      "label": "pajamas",
+      "value": "pajamas",
+      "cn": "睡衣"
+    },
+    {
+      "label": "wet clothes",
+      "value": "wet clothes",
+      "cn": "湿衣服"
+    },
+    {
+      "label": "tank_top",
+      "value": "tank_top",
+      "cn": "背心"
+    },
+    {
+      "label": "lolita_fashion",
+      "value": "lolita_fashion",
+      "cn": "洛丽塔风格"
+    },
+    {
+      "label": "bustier",
+      "value": "bustier",
+      "cn": "胸衣"
+    },
+    {
+      "label": "collared shirt",
+      "value": "collared shirt",
+      "cn": "有领衬衣"
+    },
+    {
+      "label": "evening dress",
+      "value": "evening dress",
+      "cn": "晚礼服"
+    },
+    {
+      "label": "crop top",
+      "value": "crop top",
+      "cn": "漏脐背心"
+    },
+    {
+      "label": "sexy lingerie",
+      "value": "sexy lingerie",
+      "cn": "情趣内衣"
+    },
+    {
+      "label": "shorts",
+      "value": "shorts",
+      "cn": "短裤"
+    },
+    {
+      "label": "buruma",
+      "value": "buruma",
+      "cn": "日本女生运动短裤"
+    },
+    {
+      "label": "revealing dress",
+      "value": "revealing dress",
+      "cn": "礼服长裙"
+    },
+    {
+      "label": "side-tie_panties",
+      "value": "side-tie_panties",
+      "cn": "侧系带内裤"
+    },
+    {
+      "label": "school swimsuit",
+      "value": "school swimsuit",
+      "cn": "学校泳衣"
+    },
+    {
+      "label": "lingerie",
+      "value": "lingerie",
+      "cn": "女用贴身内衣裤"
+    },
+    {
+      "label": "pink lucency full dress",
+      "value": "pink lucency full dress",
+      "cn": "礼服"
+    },
+    {
+      "label": "wedding_dress",
+      "value": "wedding_dress",
+      "cn": "婚纱"
+    },
+    {
+      "label": "string_panties",
+      "value": "string_panties",
+      "cn": "高腰内裤"
+    },
+    {
+      "label": "no_panties",
+      "value": "no_panties",
+      "cn": "没内裤"
+    },
+    {
+      "label": "panties",
+      "value": "panties",
+      "cn": "内裤"
+    },
+    {
+      "label": "frilled bikini",
+      "value": "frilled bikini",
+      "cn": "褶边比基尼"
+    },
+    {
+      "label": "serifuku",
+      "value": "serifuku",
+      "cn": "水手服"
+    },
+    {
+      "label": "frills",
+      "value": "frills",
+      "cn": "褶皱修饰"
+    },
+    {
+      "label": "swimsuit",
+      "value": "swimsuit",
+      "cn": "泳装"
+    },
+    {
+      "label": "gym_uniform",
+      "value": "gym_uniform",
+      "cn": "运动服"
+    },
+    {
+      "label": "apron",
+      "value": "apron",
+      "cn": "围裙"
+    },
+    {
+      "label": "shirt",
+      "value": "shirt",
+      "cn": "衬衫"
+    },
+    {
+      "label": "pleated_skirt",
+      "value": "pleated_skirt",
+      "cn": "百褶裙"
+    },
+    {
+      "label": "skirt",
+      "value": "skirt",
+      "cn": "裙子"
+    },
+    {
+      "label": "garreg mach monastery uniform",
+      "value": "garreg mach monastery uniform",
+      "cn": "火焰纹章军服"
+    },
+    {
+      "label": "sling bikini",
+      "value": "sling bikini",
+      "cn": "吊索比基尼"
+    },
+    {
+      "label": "underwear",
+      "value": "underwear",
+      "cn": "内衣"
+    },
+    {
+      "label": "detached_sleeves",
+      "value": "detached_sleeves",
+      "cn": "袖肩分离装"
+    },
+    {
+      "label": "brown cardigan",
+      "value": "brown cardigan",
+      "cn": "棕色开襟衫（外套）"
+    },
+    {
+      "label": "sailor collar",
+      "value": "sailor collar",
+      "cn": "水手领子"
+    },
+    {
+      "label": "robe",
+      "value": "robe",
+      "cn": "长袍"
+    },
+    {
+      "label": "school uniform",
+      "value": "school uniform",
+      "cn": "学校制服"
+    },
+    {
+      "label": "shorts under skirt",
+      "value": "shorts under skirt",
+      "cn": "裙下短裤"
+    },
+    {
+      "label": "big top sleeves",
+      "value": "big top sleeves",
+      "cn": "大袖子"
+    },
+    {
+      "label": "striped_panties",
+      "value": "striped_panties",
+      "cn": "条纹内裤"
+    },
+    {
+      "label": "bikini under clothes",
+      "value": "bikini under clothes",
+      "cn": "比基尼下装"
+    },
+    {
+      "label": "sweater jacket",
+      "value": "sweater jacket",
+      "cn": "毛衣夹克"
+    },
+    {
+      "label": "cleavage dress",
+      "value": "cleavage dress",
+      "cn": "露出胸口部分的连衣裙"
+    },
+    {
+      "label": "mecha clothes",
+      "value": "mecha clothes",
+      "cn": "机甲服"
+    },
+    {
+      "label": "fundoshi",
+      "value": "fundoshi",
+      "cn": "日式丁字裤"
+    },
+    {
+      "label": "cropped jacket",
+      "value": "cropped jacket",
+      "cn": "裁剪短夹克"
+    },
+    {
+      "label": "hat",
+      "value": "hat",
+      "cn": "帽子"
+    },
+    {
+      "label": "jacket",
+      "value": "jacket",
+      "cn": "夹克"
+    },
+    {
+      "label": "belt",
+      "value": "belt",
+      "cn": "腰带"
+    },
+    {
+      "label": "lowleg panties",
+      "value": "lowleg panties",
+      "cn": "低腰式内裤"
+    },
+    {
+      "label": "lace",
+      "value": "lace",
+      "cn": "蕾丝花边"
+    },
+    {
+      "label": "dungarees",
+      "value": "dungarees",
+      "cn": "工装服"
+    },
+    {
+      "label": "summer_dress",
+      "value": "summer_dress",
+      "cn": "夏日长裙"
+    },
+    {
+      "label": "no bra",
+      "value": "no bra",
+      "cn": "没穿文胸"
+    },
+    {
+      "label": "bare_legs",
+      "value": "bare_legs",
+      "cn": "裸腿"
+    },
+    {
+      "label": "off_shoulders",
+      "value": "off_shoulders",
+      "cn": "露肩"
+    },
+    {
+      "label": "business_suit",
+      "value": "business_suit",
+      "cn": "职场制服"
+    },
+    {
+      "label": "competition swimsuit",
+      "value": "competition swimsuit",
+      "cn": "竞技泳衣"
+    },
+    {
+      "label": "obi",
+      "value": "obi",
+      "cn": "和服腰间的绳带"
+    },
+    {
+      "label": "cardigan",
+      "value": "cardigan",
+      "cn": "羊毛衫"
+    },
+    {
+      "label": "black silk stocking",
+      "value": "black silk stocking",
+      "cn": "黑色丝袜"
+    },
+    {
+      "label": "thong",
+      "value": "thong",
+      "cn": "丁字裤"
+    },
+    {
+      "label": "miniskirt",
+      "value": "miniskirt",
+      "cn": "迷你裙"
+    },
+    {
+      "label": "tartan",
+      "value": "tartan",
+      "cn": "格子花纹"
+    },
+    {
+      "label": "sleeveless shirt",
+      "value": "sleeveless shirt",
+      "cn": "无袖上衣"
+    },
+    {
+      "label": "ribbed sweater",
+      "value": "ribbed sweater",
+      "cn": "罗纹毛衣"
+    },
+    {
+      "label": "suit",
+      "value": "suit",
+      "cn": "西装"
+    },
+    {
+      "label": "polka_dot",
+      "value": "polka_dot",
+      "cn": "点状花纹的"
+    },
+    {
+      "label": "sweater dress",
+      "value": "sweater dress",
+      "cn": "毛衣裙"
+    },
+    {
+      "label": "sailor dress",
+      "value": "sailor dress",
+      "cn": "水手连衣裙"
+    },
+    {
+      "label": "side-tie_bikini",
+      "value": "side-tie_bikini",
+      "cn": "系带式比基尼"
+    },
+    {
+      "label": "skyblue dress",
+      "value": "skyblue dress",
+      "cn": "天蓝色连衣裙"
+    },
+    {
+      "label": "one-piece swimsuit",
+      "value": "one-piece swimsuit",
+      "cn": "连体泳衣"
+    },
+    {
+      "label": "sports bra",
+      "value": "sports bra",
+      "cn": "运动胸罩"
+    },
+    {
+      "label": "transparent underwear",
+      "value": "transparent underwear",
+      "cn": "透明内衣"
+    },
+    {
+      "label": "sleeveless dress",
+      "value": "sleeveless dress",
+      "cn": "无袖连衣裙"
+    },
+    {
+      "label": "frilled bra",
+      "value": "frilled bra",
+      "cn": "褶边文胸"
+    },
+    {
+      "label": "hoodie",
+      "value": "hoodie",
+      "cn": "连帽衫，卫衣"
+    },
+    {
+      "label": "barefoot",
+      "value": "barefoot",
+      "cn": "赤脚"
+    },
+    {
+      "label": "cape",
+      "value": "cape",
+      "cn": "斗篷"
+    },
+    {
+      "label": "side-tie bikini bottom",
+      "value": "side-tie bikini bottom",
+      "cn": "侧边系带比基尼下装"
+    },
+    {
+      "label": "short shorts",
+      "value": "short shorts",
+      "cn": "热裤"
+    },
+    {
+      "label": "high waist shorts",
+      "value": "high waist shorts",
+      "cn": "高腰腿裤"
+    }
+  ],
+  "鞋子": [
+    {
+      "label": "striped_socks",
+      "value": "striped_socks",
+      "cn": "横条袜"
+    },
+    {
+      "label": "striped_thighhighs",
+      "value": "striped_thighhighs",
+      "cn": "条纹过膝袜"
+    },
+    {
+      "label": "garter_belt",
+      "value": "garter_belt",
+      "cn": "连腰吊带袜"
+    },
+    {
+      "label": "loose_socks",
+      "value": "loose_socks",
+      "cn": "泡泡袜"
+    },
+    {
+      "label": "cross-laced_footwear",
+      "value": "cross-laced_footwear",
+      "cn": "系带靴"
+    },
+    {
+      "label": "boots",
+      "value": "boots",
+      "cn": "靴子"
+    },
+    {
+      "label": "knee_boots",
+      "value": "knee_boots",
+      "cn": "马靴"
+    },
+    {
+      "label": "stockings",
+      "value": "stockings",
+      "cn": "丝袜"
+    },
+    {
+      "label": "legwear",
+      "value": "legwear",
+      "cn": "裤袜"
+    },
+    {
+      "label": "garter straps",
+      "value": "garter straps",
+      "cn": "吊带袜"
+    },
+    {
+      "label": "kneehighs",
+      "value": "kneehighs",
+      "cn": "长袜"
+    },
+    {
+      "label": "slippers",
+      "value": "slippers",
+      "cn": "拖鞋"
+    },
+    {
+      "label": "fishnets",
+      "value": "fishnets",
+      "cn": "网袜"
+    },
+    {
+      "label": "socks",
+      "value": "socks",
+      "cn": "短袜"
+    },
+    {
+      "label": "thighhighs",
+      "value": "thighhighs",
+      "cn": "过膝袜"
+    },
+    {
+      "label": "mary_janes",
+      "value": "mary_janes",
+      "cn": "玛丽珍鞋"
+    },
+    {
+      "label": "white_thighhighs",
+      "value": "white_thighhighs",
+      "cn": "白色过膝袜"
+    },
+    {
+      "label": "torn_thighhighs",
+      "value": "torn_thighhighs",
+      "cn": "损坏了的过膝袜"
+    },
+    {
+      "label": "fishnet_pantyhose",
+      "value": "fishnet_pantyhose",
+      "cn": "渔网袜"
+    },
+    {
+      "label": "shoes",
+      "value": "shoes",
+      "cn": "鞋子"
+    },
+    {
+      "label": "high heels",
+      "value": "high heels",
+      "cn": "高跟鞋"
+    },
+    {
+      "label": "loafers",
+      "value": "loafers",
+      "cn": "乐福鞋"
+    }
+  ],
+  "画质": [
+    {
+      "label": "pixel_art",
+      "value": "pixel_art",
+      "cn": "像素风点阵图"
+    },
+    {
+      "label": "ultra detailed",
+      "value": "ultra detailed",
+      "cn": "超详细的"
+    },
+    {
+      "label": "finely detail",
+      "value": "finely detail",
+      "cn": "精细的细节"
+    },
+    {
+      "label": "best quality",
+      "value": "best quality",
+      "cn": "最好的质量"
+    },
+    {
+      "label": "incredibly_absurdres",
+      "value": "incredibly_absurdres",
+      "cn": "极度的效果"
+    },
+    {
+      "label": "colorful",
+      "value": "colorful",
+      "cn": "色彩斑斓的"
+    },
+    {
+      "label": "best illustration",
+      "value": "best illustration",
+      "cn": "最佳插图"
+    },
+    {
+      "label": "an extremely delicate and beautiful",
+      "value": "an extremely delicate and beautiful",
+      "cn": "极其精致美丽"
+    },
+    {
+      "label": "highres",
+      "value": "highres",
+      "cn": "高分辨率"
+    },
+    {
+      "label": "beautiful detailed girl",
+      "value": "beautiful detailed girl",
+      "cn": "漂亮细致的女孩"
+    },
+    {
+      "label": "8k_wallpaper",
+      "value": "8k_wallpaper",
+      "cn": "8k壁纸"
+    },
+    {
+      "label": "amazing",
+      "value": "amazing",
+      "cn": "超神作品"
+    },
+    {
+      "label": "extremely detailed CG unity 8k wallpaper",
+      "value": "extremely detailed CG unity 8k wallpaper",
+      "cn": "非常详细的CG unity 8k壁纸"
+    },
+    {
+      "label": "beautiful detailed eyes",
+      "value": "beautiful detailed eyes",
+      "cn": "美丽细腻的眼睛"
+    },
+    {
+      "label": "monochrome",
+      "value": "monochrome",
+      "cn": "单色图片"
+    },
+    {
+      "label": "extremely detailed CG",
+      "value": "extremely detailed CG",
+      "cn": "非常详细的CG"
+    },
+    {
+      "label": "huge_filesize",
+      "value": "huge_filesize",
+      "cn": "超大文件"
+    },
+    {
+      "label": "extremely detailed",
+      "value": "extremely detailed",
+      "cn": "非常详细"
+    },
+    {
+      "label": "masterpiece",
+      "value": "masterpiece",
+      "cn": "杰作"
+    },
+    {
+      "label": "wallpaper",
+      "value": "wallpaper",
+      "cn": "壁纸"
+    },
+    {
+      "label": "checkered",
+      "value": "checkered",
+      "cn": "黑白格子"
+    }
+  ],
+  "装饰": [
+    {
+      "label": "hair_flower",
+      "value": "hair_flower",
+      "cn": "发花"
+    },
+    {
+      "label": "flower ribbon",
+      "value": "flower ribbon",
+      "cn": "花丝带"
+    },
+    {
+      "label": "bell",
+      "value": "bell",
+      "cn": "铃铛"
+    },
+    {
+      "label": "black ribbon",
+      "value": "black ribbon",
+      "cn": "黑色丝带"
+    },
+    {
+      "label": "ribbon_choker",
+      "value": "ribbon_choker",
+      "cn": "颈带"
+    },
+    {
+      "label": "bunny_ears",
+      "value": "bunny_ears",
+      "cn": "兔子耳朵"
+    },
+    {
+      "label": "black blindfold",
+      "value": "black blindfold",
+      "cn": "黑色眼罩"
+    },
+    {
+      "label": "bracelet",
+      "value": "bracelet",
+      "cn": "手镯"
+    },
+    {
+      "label": "beautiful detailed white gloves",
+      "value": "beautiful detailed white gloves",
+      "cn": "漂亮精致的白色手套"
+    },
+    {
+      "label": "armband",
+      "value": "armband",
+      "cn": "臂章"
+    },
+    {
+      "label": "hair_bow",
+      "value": "hair_bow",
+      "cn": "蝴蝶结发饰"
+    },
+    {
+      "label": "veil",
+      "value": "veil",
+      "cn": "面纱"
+    },
+    {
+      "label": "hairclip",
+      "value": "hairclip",
+      "cn": "发夹"
+    },
+    {
+      "label": "maid_headdress",
+      "value": "maid_headdress",
+      "cn": "女仆头饰"
+    },
+    {
+      "label": "chains",
+      "value": "chains",
+      "cn": "锁链"
+    },
+    {
+      "label": "nurse cap",
+      "value": "nurse cap",
+      "cn": "护士帽"
+    },
+    {
+      "label": "pendant",
+      "value": "pendant",
+      "cn": "吊坠"
+    },
+    {
+      "label": "wrist_cuffs",
+      "value": "wrist_cuffs",
+      "cn": "腕饰"
+    },
+    {
+      "label": "semi-rimless eyewear",
+      "value": "semi-rimless eyewear",
+      "cn": "半无框的眼镜"
+    },
+    {
+      "label": "neckerchief",
+      "value": "neckerchief",
+      "cn": "领巾"
+    },
+    {
+      "label": "wristwatch",
+      "value": "wristwatch",
+      "cn": "手表"
+    },
+    {
+      "label": "goggles",
+      "value": "goggles",
+      "cn": "防风镜"
+    },
+    {
+      "label": "bowtie",
+      "value": "bowtie",
+      "cn": "蝴蝶结"
+    },
+    {
+      "label": "demon horns",
+      "value": "demon horns",
+      "cn": "恶魔角"
+    },
+    {
+      "label": "jewelry",
+      "value": "jewelry",
+      "cn": "首饰"
+    },
+    {
+      "label": "hair ornament",
+      "value": "hair ornament",
+      "cn": "发饰"
+    },
+    {
+      "label": "necklace",
+      "value": "necklace",
+      "cn": "项链"
+    },
+    {
+      "label": "buttons",
+      "value": "buttons",
+      "cn": "纽扣"
+    },
+    {
+      "label": "hair_ornament",
+      "value": "hair_ornament",
+      "cn": "头饰"
+    },
+    {
+      "label": "fingerless gloves",
+      "value": "fingerless gloves",
+      "cn": "五指手套"
+    },
+    {
+      "label": "earrings",
+      "value": "earrings",
+      "cn": "耳环"
+    },
+    {
+      "label": "armlet",
+      "value": "armlet",
+      "cn": "臂环"
+    },
+    {
+      "label": "halo",
+      "value": "halo",
+      "cn": "光环"
+    },
+    {
+      "label": "hairband",
+      "value": "hairband",
+      "cn": "发卡"
+    },
+    {
+      "label": "veil",
+      "value": "veil",
+      "cn": "面纱"
+    },
+    {
+      "label": "arm strap",
+      "value": "arm strap",
+      "cn": "臂带"
+    },
+    {
+      "label": "white bowties",
+      "value": "white bowties",
+      "cn": "白色蝴蝶结"
+    },
+    {
+      "label": "wristband",
+      "value": "wristband",
+      "cn": "腕带"
+    },
+    {
+      "label": "elbow gloves",
+      "value": "elbow gloves",
+      "cn": "肘部手套"
+    },
+    {
+      "label": "collar",
+      "value": "collar",
+      "cn": "项圈"
+    },
+    {
+      "label": "headphones around neck",
+      "value": "headphones around neck",
+      "cn": "耳机套脖子上"
+    },
+    {
+      "label": "shackles",
+      "value": "shackles",
+      "cn": "手链"
+    },
+    {
+      "label": "ribbons",
+      "value": "ribbons",
+      "cn": "缎带"
+    },
+    {
+      "label": "sailor_collar",
+      "value": "sailor_collar",
+      "cn": "水手领"
+    },
+    {
+      "label": "half gloves",
+      "value": "half gloves",
+      "cn": "露指手套"
+    },
+    {
+      "label": "sunglasses",
+      "value": "sunglasses",
+      "cn": "太阳镜"
+    },
+    {
+      "label": "scarf",
+      "value": "scarf",
+      "cn": "围巾"
+    },
+    {
+      "label": "hair_ribbon",
+      "value": "hair_ribbon",
+      "cn": "发带"
+    },
+    {
+      "label": "gloves",
+      "value": "gloves",
+      "cn": "手套"
+    },
+    {
+      "label": "tiara",
+      "value": "tiara",
+      "cn": "皇冠"
+    },
+    {
+      "label": "handcuffs",
+      "value": "handcuffs",
+      "cn": "手铐"
+    },
+    {
+      "label": "necktie",
+      "value": "necktie",
+      "cn": "领带"
+    },
+    {
+      "label": "glasses",
+      "value": "glasses",
+      "cn": "眼镜"
+    },
+    {
+      "label": "mouth mask",
+      "value": "mouth mask",
+      "cn": "口罩"
+    },
+    {
+      "label": "hood",
+      "value": "hood",
+      "cn": "兜帽"
+    },
+    {
+      "label": "oni horns",
+      "value": "oni horns",
+      "cn": "鬼角"
+    },
+    {
+      "label": "eyepatch",
+      "value": "eyepatch",
+      "cn": "眼罩独眼"
+    },
+    {
+      "label": "ice crystal texture wings",
+      "value": "ice crystal texture wings",
+      "cn": "冰晶纹理翅膀"
+    },
+    {
+      "label": "mesh",
+      "value": "mesh",
+      "cn": "网眼"
+    },
+    {
+      "label": "mini_top_hat",
+      "value": "mini_top_hat",
+      "cn": "迷你礼帽"
+    },
+    {
+      "label": "bandaid",
+      "value": "bandaid",
+      "cn": "创可贴"
+    },
+    {
+      "label": "heart hair ornament",
+      "value": "heart hair ornament",
+      "cn": "心形发饰"
+    },
+    {
+      "label": "choker",
+      "value": "choker",
+      "cn": "颈部饰品"
+    },
+    {
+      "label": "headphones",
+      "value": "headphones",
+      "cn": "耳机"
+    },
+    {
+      "label": "beret",
+      "value": "beret",
+      "cn": "贝雷帽"
+    }
+  ],
+  "类型": [
+    {
+      "label": "adorable girl",
+      "value": "adorable girl",
+      "cn": "可爱的女孩"
+    },
+    {
+      "label": "mature",
+      "value": "mature",
+      "cn": "成熟"
+    },
+    {
+      "label": "little girl",
+      "value": "little girl",
+      "cn": "小女孩"
+    },
+    {
+      "label": "mature female",
+      "value": "mature female",
+      "cn": "成熟女性"
+    },
+    {
+      "label": "gyaru",
+      "value": "gyaru",
+      "cn": "辣妹"
+    },
+    {
+      "label": "solo",
+      "value": "solo",
+      "cn": "单人"
+    },
+    {
+      "label": "female pervert",
+      "value": "female pervert",
+      "cn": "痴女"
+    },
+    {
+      "label": "loli",
+      "value": "loli",
+      "cn": "萝莉"
+    },
+    {
+      "label": "sisters",
+      "value": "sisters",
+      "cn": "姐妹"
+    },
+    {
+      "label": "mesugaki",
+      "value": "mesugaki",
+      "cn": "雌小鬼"
+    },
+    {
+      "label": "ojousama",
+      "value": "ojousama",
+      "cn": "大小姐"
+    },
+    {
+      "label": "kawaii",
+      "value": "kawaii",
+      "cn": "可爱"
+    },
+    {
+      "label": "adult lady like woman",
+      "value": "adult lady like woman",
+      "cn": "御姐"
+    },
+    {
+      "label": "1girl",
+      "value": "1girl",
+      "cn": "1个女孩"
+    },
+    {
+      "label": "bishoujo",
+      "value": "bishoujo",
+      "cn": "美少女"
+    },
+    {
+      "label": "little boy",
+      "value": "little boy",
+      "cn": "小男孩"
+    },
+    {
+      "label": "focus_on_face",
+      "value": "focus_on_face",
+      "cn": "脸部聚焦"
+    },
+    {
+      "label": "milf",
+      "value": "milf",
+      "cn": "熟女"
+    },
+    {
+      "label": "multiple girls",
+      "value": "multiple girls",
+      "cn": "多个女孩"
+    },
+    {
+      "label": "shota",
+      "value": "shota",
+      "cn": "正太"
+    },
+    {
+      "label": "upper_body",
+      "value": "upper_body",
+      "cn": "上半身"
+    }
+  ],
+  "天气": [
+    {
+      "label": "rainy days",
+      "value": "rainy days",
+      "cn": "雨天"
+    },
+    {
+      "label": "in the rain",
+      "value": "in the rain",
+      "cn": "雨中"
+    },
+    {
+      "label": "cumulonimbus capillatus",
+      "value": "cumulonimbus capillatus",
+      "cn": "鬃积雨云"
+    },
+    {
+      "label": "randomly distributed clouds",
+      "value": "randomly distributed clouds",
+      "cn": "随机分布的云"
+    },
+    {
+      "label": "sun",
+      "value": "sun",
+      "cn": "太阳"
+    },
+    {
+      "label": "dusk",
+      "value": "dusk",
+      "cn": "黄昏"
+    },
+    {
+      "label": "day",
+      "value": "day",
+      "cn": "白天"
+    },
+    {
+      "label": "wind",
+      "value": "wind",
+      "cn": "风"
+    },
+    {
+      "label": "rain",
+      "value": "rain",
+      "cn": "下雨"
+    },
+    {
+      "label": "full_moon",
+      "value": "full_moon",
+      "cn": "满月"
+    },
+    {
+      "label": "night",
+      "value": "night",
+      "cn": "夜晚"
+    },
+    {
+      "label": "cloudy",
+      "value": "cloudy",
+      "cn": "多云"
+    },
+    {
+      "label": "sunset",
+      "value": "sunset",
+      "cn": "日落"
+    },
+    {
+      "label": "moon",
+      "value": "moon",
+      "cn": "月亮"
+    },
+    {
+      "label": "cumulonimbus calvus",
+      "value": "cumulonimbus calvus",
+      "cn": "秃积雨云"
+    }
+  ],
+  "表情": [
+    {
+      "label": ":t",
+      "value": ":t",
+      "cn": "不耐烦"
+    },
+    {
+      "label": "dark_persona",
+      "value": "dark_persona",
+      "cn": "黑化的"
+    },
+    {
+      "label": ":d",
+      "value": ":d",
+      "cn": "杯型笑脸"
+    },
+    {
+      "label": "cute face",
+      "value": "cute face",
+      "cn": "可爱表情"
+    },
+    {
+      "label": ":3",
+      "value": ":3",
+      "cn": "ω猫嘴"
+    },
+    {
+      "label": "pout",
+      "value": "pout",
+      "cn": "别扭努嘴"
+    },
+    {
+      "label": "drunk",
+      "value": "drunk",
+      "cn": "喝醉的"
+    },
+    {
+      "label": "smug",
+      "value": "smug",
+      "cn": "得意"
+    },
+    {
+      "label": "seductive smile",
+      "value": "seductive smile",
+      "cn": "诱惑笑"
+    },
+    {
+      "label": ":q",
+      "value": ":q",
+      "cn": "向上吐舌头"
+    },
+    {
+      "label": "sad",
+      "value": "sad",
+      "cn": "悲伤的"
+    },
+    {
+      "label": "blank stare",
+      "value": "blank stare",
+      "cn": "茫然凝视"
+    },
+    {
+      "label": "tongue out",
+      "value": "tongue out",
+      "cn": "吐舌"
+    },
+    {
+      "label": "sigh",
+      "value": "sigh",
+      "cn": "叹气"
+    },
+    {
+      "label": "crying with eyes open",
+      "value": "crying with eyes open",
+      "cn": "哭"
+    },
+    {
+      "label": "naughty_face",
+      "value": "naughty_face",
+      "cn": "下流的表情"
+    },
+    {
+      "label": "sleepy",
+      "value": "sleepy",
+      "cn": "困"
+    },
+    {
+      "label": "half closed eyes",
+      "value": "half closed eyes",
+      "cn": "半闭着的眼睛"
+    },
+    {
+      "label": "grin",
+      "value": "grin",
+      "cn": "露齿而笑"
+    },
+    {
+      "label": "endured_face",
+      "value": "endured_face",
+      "cn": "忍耐的表情"
+    },
+    {
+      "label": "jitome",
+      "value": "jitome",
+      "cn": "鄙夷"
+    },
+    {
+      "label": "serious",
+      "value": "serious",
+      "cn": "严肃"
+    },
+    {
+      "label": "scowl",
+      "value": "scowl",
+      "cn": "锐利"
+    },
+    {
+      "label": "expressionless",
+      "value": "expressionless",
+      "cn": "无表情的"
+    },
+    {
+      "label": "annoyed",
+      "value": "annoyed",
+      "cn": "苦恼的"
+    },
+    {
+      "label": "angry",
+      "value": "angry",
+      "cn": "生气"
+    },
+    {
+      "label": "smirk",
+      "value": "smirk",
+      "cn": "微笑"
+    },
+    {
+      "label": "laughing",
+      "value": "laughing",
+      "cn": "笑"
+    },
+    {
+      "label": "clenched teeth",
+      "value": "clenched teeth",
+      "cn": "咬紧牙关"
+    },
+    {
+      "label": "ahegao",
+      "value": "ahegao",
+      "cn": "伸出舌头眯着眼睛"
+    },
+    {
+      "label": "expressionless",
+      "value": "expressionless",
+      "cn": "无表情"
+    },
+    {
+      "label": "excited",
+      "value": "excited",
+      "cn": "兴奋"
+    },
+    {
+      "label": "expressionless eyes",
+      "value": "expressionless eyes",
+      "cn": "失神"
+    },
+    {
+      "label": "fangs",
+      "value": "fangs",
+      "cn": "尖牙"
+    },
+    {
+      "label": "crazy",
+      "value": "crazy",
+      "cn": "疯狂的"
+    },
+    {
+      "label": "eyelid pull",
+      "value": "eyelid pull",
+      "cn": "做鬼脸"
+    },
+    {
+      "label": "nose blush",
+      "value": "nose blush",
+      "cn": "害羞"
+    },
+    {
+      "label": "half-closed eyes",
+      "value": "half-closed eyes",
+      "cn": "半闭眼睛"
+    },
+    {
+      "label": ":p",
+      "value": ":p",
+      "cn": "向下吐舌头"
+    }
+  ],
+  "风格": [
+    {
+      "label": "personification",
+      "value": "personification",
+      "cn": "拟人"
+    },
+    {
+      "label": "gradient_background",
+      "value": "gradient_background",
+      "cn": "渐变背景"
+    },
+    {
+      "label": "watercolor_medium",
+      "value": "watercolor_medium",
+      "cn": "水彩"
+    },
+    {
+      "label": "real",
+      "value": "real",
+      "cn": "真实"
+    },
+    {
+      "label": "4koma",
+      "value": "4koma",
+      "cn": "四格漫画"
+    },
+    {
+      "label": "light",
+      "value": "light",
+      "cn": "明亮的"
+    },
+    {
+      "label": "artbook",
+      "value": "artbook",
+      "cn": "画册"
+    },
+    {
+      "label": "science_fiction",
+      "value": "science_fiction",
+      "cn": "科技幻想风格"
+    },
+    {
+      "label": "illustration",
+      "value": "illustration",
+      "cn": "插图"
+    },
+    {
+      "label": "watercolor",
+      "value": "watercolor",
+      "cn": "水彩"
+    },
+    {
+      "label": "animated_gif",
+      "value": "animated_gif",
+      "cn": "连续的多张图片"
+    },
+    {
+      "label": "simple_background",
+      "value": "simple_background",
+      "cn": "简单的背景"
+    },
+    {
+      "label": "original",
+      "value": "original",
+      "cn": "原创"
+    },
+    {
+      "label": "zoom_layer",
+      "value": "zoom_layer",
+      "cn": "背景是前景的放大版"
+    },
+    {
+      "label": "silhouette",
+      "value": "silhouette",
+      "cn": "剪影"
+    },
+    {
+      "label": "dakimakura",
+      "value": "dakimakura",
+      "cn": "抱枕"
+    },
+    {
+      "label": "cover",
+      "value": "cover",
+      "cn": "封面"
+    },
+    {
+      "label": "sample",
+      "value": "sample",
+      "cn": "很多样本的集合"
+    },
+    {
+      "label": "cosplay",
+      "value": "cosplay",
+      "cn": "角色扮演"
+    },
+    {
+      "label": "expressions",
+      "value": "expressions",
+      "cn": "表情绘（各种表情）"
+    },
+    {
+      "label": "gothic",
+      "value": "gothic",
+      "cn": "哥特风格"
+    },
+    {
+      "label": "profile",
+      "value": "profile",
+      "cn": "侧面绘"
+    },
+    {
+      "label": "bust",
+      "value": "bust",
+      "cn": "半身像"
+    },
+    {
+      "label": "sketch",
+      "value": "sketch",
+      "cn": "素描"
+    },
+    {
+      "label": "traditional_media",
+      "value": "traditional_media",
+      "cn": "传统媒体（基本上是手绘稿）"
+    },
+    {
+      "label": "guro",
+      "value": "guro",
+      "cn": "猎奇风"
+    },
+    {
+      "label": "game_cg",
+      "value": "game_cg",
+      "cn": "游戏CG"
+    },
+    {
+      "label": "transparent_background",
+      "value": "transparent_background",
+      "cn": "透明的背景"
+    },
+    {
+      "label": "album",
+      "value": "album",
+      "cn": "专辑"
+    },
+    {
+      "label": "fine_art_parody",
+      "value": "fine_art_parody",
+      "cn": "名画模仿"
+    },
+    {
+      "label": "everyone",
+      "value": "everyone",
+      "cn": "一部作品中的主要人物集齐"
+    },
+    {
+      "label": "cityscape",
+      "value": "cityscape",
+      "cn": "城市风景"
+    },
+    {
+      "label": "ink",
+      "value": "ink",
+      "cn": "墨水"
+    },
+    {
+      "label": "photo",
+      "value": "photo",
+      "cn": "照片"
+    },
+    {
+      "label": "column_lineup",
+      "value": "column_lineup",
+      "cn": "一列列小图组成大图"
+    },
+    {
+      "label": "realistic",
+      "value": "realistic",
+      "cn": "写实"
+    },
+    {
+      "label": "landscape",
+      "value": "landscape",
+      "cn": "风景画"
+    },
+    {
+      "label": "dark",
+      "value": "dark",
+      "cn": "暗的"
+    },
+    {
+      "label": "sketch",
+      "value": "sketch",
+      "cn": "素描"
+    },
+    {
+      "label": "comic",
+      "value": "comic",
+      "cn": "漫画"
+    },
+    {
+      "label": "optical illusion",
+      "value": "optical illusion",
+      "cn": "视觉欺骗"
+    },
+    {
+      "label": "painting",
+      "value": "painting",
+      "cn": "绘画"
+    },
+    {
+      "label": "scenery",
+      "value": "scenery",
+      "cn": "风景画"
+    }
+  ],
+  "复合动作": [
+    {
+      "label": "bent_over",
+      "value": "bent_over",
+      "cn": "翘臀姿势"
+    },
+    {
+      "label": "fighting_stance",
+      "value": "fighting_stance",
+      "cn": "战斗姿态"
+    },
+    {
+      "label": "shirt lift",
+      "value": "shirt lift",
+      "cn": "掀起上衣"
+    },
+    {
+      "label": "back-to-back",
+      "value": "back-to-back",
+      "cn": "背对背"
+    },
+    {
+      "label": "symmetrical_hand_pose",
+      "value": "symmetrical_hand_pose",
+      "cn": "手对手"
+    },
+    {
+      "label": "eye_contact",
+      "value": "eye_contact",
+      "cn": "对视"
+    },
+    {
+      "label": "undressing",
+      "value": "undressing",
+      "cn": "脱衣服"
+    },
+    {
+      "label": "princess_carry",
+      "value": "princess_carry",
+      "cn": "公主抱"
+    },
+    {
+      "label": "hug",
+      "value": "hug",
+      "cn": "拥抱"
+    },
+    {
+      "label": "adjusting_thighhigh",
+      "value": "adjusting_thighhigh",
+      "cn": "调整过膝袜"
+    },
+    {
+      "label": "top-down_bottom-up",
+      "value": "top-down_bottom-up",
+      "cn": "趴着翘臀"
+    },
+    {
+      "label": "holding_hands",
+      "value": "holding_hands",
+      "cn": "牵手"
+    },
+    {
+      "label": "mimikaki",
+      "value": "mimikaki",
+      "cn": "掏耳勺"
+    },
+    {
+      "label": "all_fours",
+      "value": "all_fours",
+      "cn": "四肢趴地"
+    },
+    {
+      "label": "symmetrical_docking",
+      "value": "symmetrical_docking",
+      "cn": "女胸部贴在一起"
+    },
+    {
+      "label": "lap_pillow",
+      "value": "lap_pillow",
+      "cn": "膝枕"
+    },
+    {
+      "label": "arched_back",
+      "value": "arched_back",
+      "cn": "弓着身体"
+    },
+    {
+      "label": "skirt lift",
+      "value": "skirt lift",
+      "cn": "掀起裙子"
+    },
+    {
+      "label": "upside-down",
+      "value": "upside-down",
+      "cn": "颠倒的"
+    }
+  ],
+  "脸部": [
+    {
+      "label": "eyebrows",
+      "value": "eyebrows",
+      "cn": "眉毛"
+    },
+    {
+      "label": "light blush",
+      "value": "light blush",
+      "cn": "淡淡腮红"
+    },
+    {
+      "label": "frown",
+      "value": "frown",
+      "cn": "皱眉"
+    },
+    {
+      "label": "colored eyelashes",
+      "value": "colored eyelashes",
+      "cn": "彩色睫毛"
+    },
+    {
+      "label": "blood on face",
+      "value": "blood on face",
+      "cn": "血在脸上"
+    },
+    {
+      "label": "mole under eye",
+      "value": "mole under eye",
+      "cn": "眼下痣"
+    },
+    {
+      "label": "blush",
+      "value": "blush",
+      "cn": "脸红"
+    },
+    {
+      "label": "food on face",
+      "value": "food on face",
+      "cn": "食物在脸上（食物可替换）"
+    },
+    {
+      "label": "facepaint",
+      "value": "facepaint",
+      "cn": "面纹"
+    },
+    {
+      "label": "makeup",
+      "value": "makeup",
+      "cn": "浓妆"
+    },
+    {
+      "label": "anime face",
+      "value": "anime face",
+      "cn": "动漫脸"
+    },
+    {
+      "label": "longeyelashes",
+      "value": "longeyelashes",
+      "cn": "长睫毛"
+    },
+    {
+      "label": "nosebleed",
+      "value": "nosebleed",
+      "cn": "鼻血"
+    },
+    {
+      "label": "saliva",
+      "value": "saliva",
+      "cn": "唾液"
+    },
+    {
+      "label": "no_nose",
+      "value": "no_nose",
+      "cn": "没鼻子"
+    }
+  ],
+  "物品": [
+    {
+      "label": "cane",
+      "value": "cane",
+      "cn": "手杖"
+    },
+    {
+      "label": "backpack",
+      "value": "backpack",
+      "cn": "双肩包"
+    },
+    {
+      "label": "school bag",
+      "value": "school bag",
+      "cn": "书包"
+    },
+    {
+      "label": "satchel",
+      "value": "satchel",
+      "cn": "肩背书包"
+    },
+    {
+      "label": "smartphone",
+      "value": "smartphone",
+      "cn": "手机"
+    },
+    {
+      "label": "cross necklace",
+      "value": "cross necklace",
+      "cn": "十字架"
+    },
+    {
+      "label": "feather",
+      "value": "feather",
+      "cn": "羽毛"
+    },
+    {
+      "label": "wine glass",
+      "value": "wine glass",
+      "cn": "酒杯"
+    },
+    {
+      "label": "book",
+      "value": "book",
+      "cn": "书"
+    },
+    {
+      "label": "tennis racket",
+      "value": "tennis racket",
+      "cn": "球拍"
+    },
+    {
+      "label": "sword",
+      "value": "sword",
+      "cn": "剑"
+    },
+    {
+      "label": "shield",
+      "value": "shield",
+      "cn": "盾牌"
+    },
+    {
+      "label": "staff",
+      "value": "staff",
+      "cn": "法杖"
+    },
+    {
+      "label": "wand",
+      "value": "wand",
+      "cn": "魔杖"
+    },
+    {
+      "label": "potion",
+      "value": "potion",
+      "cn": "药水"
+    },
+    {
+      "label": "scroll",
+      "value": "scroll",
+      "cn": "卷轴"
+    },
+    {
+      "label": "camera",
+      "value": "camera",
+      "cn": "相机"
+    },
+    {
+      "label": "umbrella",
+      "value": "umbrella",
+      "cn": "雨伞"
+    },
+    {
+      "label": "bag",
+      "value": "bag",
+      "cn": "包"
+    },
+    {
+      "label": "suitcase",
+      "value": "suitcase",
+      "cn": "手提箱"
+    },
+    {
+      "label": "clock",
+      "value": "clock",
+      "cn": "时钟"
+    },
+    {
+      "label": "lantern",
+      "value": "lantern",
+      "cn": "灯笼"
+    },
+    {
+      "label": "candle",
+      "value": "candle",
+      "cn": "蜡烛"
+    },
+    {
+      "label": "mirror",
+      "value": "mirror",
+      "cn": "镜子"
+    },
+    {
+      "label": "table",
+      "value": "table",
+      "cn": "桌子"
+    },
+    {
+      "label": "couch",
+      "value": "couch",
+      "cn": "沙发"
+    },
+    {
+      "label": "pillow",
+      "value": "pillow",
+      "cn": "枕头"
+    },
+    {
+      "label": "blanket",
+      "value": "blanket",
+      "cn": "毯子"
+    },
+    {
+      "label": "cup",
+      "value": "cup",
+      "cn": "杯子"
+    },
+    {
+      "label": "plate",
+      "value": "plate",
+      "cn": "盘子"
+    },
+    {
+      "label": "fork",
+      "value": "fork",
+      "cn": "叉子"
+    },
+    {
+      "label": "knife",
+      "value": "knife",
+      "cn": "刀"
+    },
+    {
+      "label": "spoon",
+      "value": "spoon",
+      "cn": "勺子"
+    },
+    {
+      "label": "car",
+      "value": "car",
+      "cn": "汽车"
+    },
+    {
+      "label": "bicycle",
+      "value": "bicycle",
+      "cn": "自行车"
+    },
+    {
+      "label": "motorcycle",
+      "value": "motorcycle",
+      "cn": "摩托车"
+    },
+    {
+      "label": "bus",
+      "value": "bus",
+      "cn": "公共汽车"
+    },
+    {
+      "label": "train",
+      "value": "train",
+      "cn": "火车"
+    },
+    {
+      "label": "airplane",
+      "value": "airplane",
+      "cn": "飞机"
+    },
+    {
+      "label": "boat",
+      "value": "boat",
+      "cn": "船"
+    },
+    {
+      "label": "ship",
+      "value": "ship",
+      "cn": "轮船"
+    },
+    {
+      "label": "robot",
+      "value": "robot",
+      "cn": "机器人"
+    },
+    {
+      "label": "flower",
+      "value": "flower",
+      "cn": "花"
+    },
+    {
+      "label": "tree",
+      "value": "tree",
+      "cn": "树"
+    },
+    {
+      "label": "grass",
+      "value": "grass",
+      "cn": "草"
+    },
+    {
+      "label": "apple",
+      "value": "apple",
+      "cn": "苹果"
+    },
+    {
+      "label": "banana",
+      "value": "banana",
+      "cn": "香蕉"
+    },
+    {
+      "label": "cake",
+      "value": "cake",
+      "cn": "蛋糕"
+    },
+    {
+      "label": "coffee",
+      "value": "coffee",
+      "cn": "咖啡"
+    },
+    {
+      "label": "tea",
+      "value": "tea",
+      "cn": "茶"
+    },
+    {
+      "label": "bread",
+      "value": "bread",
+      "cn": "面包"
+    },
+    {
+      "label": "pizza",
+      "value": "pizza",
+      "cn": "披萨"
+    },
+    {
+      "label": "burger",
+      "value": "burger",
+      "cn": "汉堡"
+    },
+    {
+      "label": "sushi",
+      "value": "sushi",
+      "cn": "寿司"
+    },
+    {
+      "label": "ice cream",
+      "value": "ice cream",
+      "cn": "冰淇淋"
+    },
+    {
+      "label": "chocolate",
+      "value": "chocolate",
+      "cn": "巧克力"
+    }
+  ],
+  "手动作": [
+    {
+      "label": "waving",
+      "value": "waving",
+      "cn": "招手"
+    },
+    {
+      "label": "hand on own chest",
+      "value": "hand on own chest",
+      "cn": "手放在自己的胸前"
+    },
+    {
+      "label": "hands on hip",
+      "value": "hands on hip",
+      "cn": "双手叉腰"
+    },
+    {
+      "label": "hand on another's hip",
+      "value": "hand on another's hip",
+      "cn": "手放臀"
+    },
+    {
+      "label": "middle_finger",
+      "value": "middle_finger",
+      "cn": "比出中指"
+    },
+    {
+      "label": "holding sword",
+      "value": "holding sword",
+      "cn": "拿着剑"
+    },
+    {
+      "label": "armpits",
+      "value": "armpits",
+      "cn": "举手露腋"
+    },
+    {
+      "label": "arm at side",
+      "value": "arm at side",
+      "cn": "手放头旁边"
+    },
+    {
+      "label": "hands up",
+      "value": "hands up",
+      "cn": "举手"
+    },
+    {
+      "label": "arms behind head",
+      "value": "arms behind head",
+      "cn": "手放脑后"
+    },
+    {
+      "label": "fingersmile",
+      "value": "fingersmile",
+      "cn": "用手指做出笑脸"
+    },
+    {
+      "label": "cat_pose",
+      "value": "cat_pose",
+      "cn": "猫爪手势"
+    },
+    {
+      "label": "stretch",
+      "value": "stretch",
+      "cn": "伸懒腰"
+    },
+    {
+      "label": "leg hold",
+      "value": "leg hold",
+      "cn": "手把腿抓着"
+    },
+    {
+      "label": "hair_pull",
+      "value": "hair_pull",
+      "cn": "拉头发"
+    },
+    {
+      "label": "spread_arms",
+      "value": "spread_arms",
+      "cn": "张手"
+    },
+    {
+      "label": "arms_crossed",
+      "value": "arms_crossed",
+      "cn": "手交叉于胸前"
+    },
+    {
+      "label": "finger_gun",
+      "value": "finger_gun",
+      "cn": "手枪手势"
+    },
+    {
+      "label": "holding",
+      "value": "holding",
+      "cn": "拿着"
+    },
+    {
+      "label": "holding book",
+      "value": "holding book",
+      "cn": "拿着书"
+    },
+    {
+      "label": "hair scrunchie",
+      "value": "hair scrunchie",
+      "cn": "撮头发"
+    },
+    {
+      "label": "thumbs_up",
+      "value": "thumbs_up",
+      "cn": "翘大拇指"
+    },
+    {
+      "label": "salute",
+      "value": "salute",
+      "cn": "敬礼"
+    },
+    {
+      "label": "arms behind back",
+      "value": "arms behind back",
+      "cn": "手放后面"
+    },
+    {
+      "label": "peace symbol",
+      "value": "peace symbol",
+      "cn": "耶手势"
+    },
+    {
+      "label": "hand_on_hip",
+      "value": "hand_on_hip",
+      "cn": "单手插腰"
+    },
+    {
+      "label": "grabbing",
+      "value": "grabbing",
+      "cn": "抓住"
+    },
+    {
+      "label": "smoking",
+      "value": "smoking",
+      "cn": "抽烟"
+    },
+    {
+      "label": "shushing",
+      "value": "shushing",
+      "cn": "嘘手势"
+    },
+    {
+      "label": "hand_to_mouth",
+      "value": "hand_to_mouth",
+      "cn": "手放在嘴边"
+    }
+  ],
+  "耳部": [
+    {
+      "label": "pointy ears",
+      "value": "pointy ears",
+      "cn": "尖耳"
+    },
+    {
+      "label": "mouse_ears",
+      "value": "mouse_ears",
+      "cn": "鼠耳"
+    },
+    {
+      "label": "dog_ears",
+      "value": "dog_ears",
+      "cn": "狗耳"
+    },
+    {
+      "label": "animal ear fluff",
+      "value": "animal ear fluff",
+      "cn": "动物耳绒毛"
+    },
+    {
+      "label": "fox_ears",
+      "value": "fox_ears",
+      "cn": "狐狸耳朵"
+    },
+    {
+      "label": "cat_ears",
+      "value": "cat_ears",
+      "cn": "猫耳"
+    },
+    {
+      "label": "hair ear",
+      "value": "hair ear",
+      "cn": "头发上耳朵"
+    },
+    {
+      "label": "animal_ears",
+      "value": "animal_ears",
+      "cn": "动物耳朵"
+    }
+  ],
+  "嘴部": [
+    {
+      "label": "open mouth",
+      "value": "open mouth",
+      "cn": "张嘴"
+    },
+    {
+      "label": "closed mouth",
+      "value": "closed mouth",
+      "cn": "闭嘴"
+    },
+    {
+      "label": "lipstick",
+      "value": "lipstick",
+      "cn": "口红"
+    },
+    {
+      "label": "tongue",
+      "value": "tongue",
+      "cn": "舌头"
+    },
+    {
+      "label": "teeth",
+      "value": "teeth",
+      "cn": "牙"
+    }
+  ],
+  "眼睛": [
+    {
+      "label": "gradient_eyes",
+      "value": "gradient_eyes",
+      "cn": "渐变眼"
+    },
+    {
+      "label": "heterochromia",
+      "value": "heterochromia",
+      "cn": "异色瞳"
+    },
+    {
+      "label": "heart-shaped pupils",
+      "value": "heart-shaped pupils",
+      "cn": "爱心瞳孔"
+    },
+    {
+      "label": "wide eyed",
+      "value": "wide eyed",
+      "cn": "睁大眼睛"
+    },
+    {
+      "label": "red eyes",
+      "value": "red eyes",
+      "cn": "红色的眼睛"
+    },
+    {
+      "label": "wink",
+      "value": "wink",
+      "cn": "眨眼"
+    },
+    {
+      "label": "heart in eye",
+      "value": "heart in eye",
+      "cn": "眼中的心形"
+    },
+    {
+      "label": "tareme",
+      "value": "tareme",
+      "cn": "垂眼角"
+    },
+    {
+      "label": "stare",
+      "value": "stare",
+      "cn": "凝视"
+    },
+    {
+      "label": "blue eyes",
+      "value": "blue eyes",
+      "cn": "蓝眼睛"
+    },
+    {
+      "label": "constricted pupils",
+      "value": "constricted pupils",
+      "cn": "收缩的瞳孔"
+    },
+    {
+      "label": "eyeball",
+      "value": "eyeball",
+      "cn": "盯着看"
+    },
+    {
+      "label": "symbol-shaped pupils",
+      "value": "symbol-shaped pupils",
+      "cn": "符号形状的瞳孔"
+    },
+    {
+      "label": "bright_eyes",
+      "value": "bright_eyes",
+      "cn": "明亮的眼睛"
+    },
+    {
+      "label": "eyes closed",
+      "value": "eyes closed",
+      "cn": "闭眼"
+    },
+    {
+      "label": "one eye closed",
+      "value": "one eye closed",
+      "cn": "一只眼睛闭上"
+    },
+    {
+      "label": "slit pupils",
+      "value": "slit pupils",
+      "cn": "猫眼"
+    },
+    {
+      "label": "glowing eyes",
+      "value": "glowing eyes",
+      "cn": "发光的眼睛"
+    },
+    {
+      "label": "tsurime",
+      "value": "tsurime",
+      "cn": "吊眼角"
+    }
+  ],
+  "露出": [
+    {
+      "label": "navel",
+      "value": "navel",
+      "cn": "肚脐"
+    },
+    {
+      "label": "nude",
+      "value": "nude",
+      "cn": "裸体"
+    },
+    {
+      "label": "midriff",
+      "value": "midriff",
+      "cn": "中腹部"
+    },
+    {
+      "label": "bare shoulders",
+      "value": "bare shoulders",
+      "cn": "裸露的肩膀"
+    }
+  ],
+  "腿动作": [
+    {
+      "label": "seiza",
+      "value": "seiza",
+      "cn": "正坐"
+    },
+    {
+      "label": "leg_hug",
+      "value": "leg_hug",
+      "cn": "抱腿"
+    },
+    {
+      "label": "leaning forward",
+      "value": "leaning forward",
+      "cn": "前倾"
+    },
+    {
+      "label": "leg_lift",
+      "value": "leg_lift",
+      "cn": "抬脚"
+    },
+    {
+      "label": "crossed_legs",
+      "value": "crossed_legs",
+      "cn": "二郎腿"
+    },
+    {
+      "label": "fetal position",
+      "value": "fetal position",
+      "cn": "婴儿姿势"
+    },
+    {
+      "label": "arm_support",
+      "value": "arm_support",
+      "cn": "用手支撑住"
+    },
+    {
+      "label": "spread legs",
+      "value": "spread legs",
+      "cn": "张开腿"
+    },
+    {
+      "label": "straddling",
+      "value": "straddling",
+      "cn": "跨坐"
+    },
+    {
+      "label": "wariza",
+      "value": "wariza",
+      "cn": "鸭子坐"
+    },
+    {
+      "label": "yokozuwari",
+      "value": "yokozuwari",
+      "cn": "侧身坐"
+    },
+    {
+      "label": "fetal_position",
+      "value": "fetal_position",
+      "cn": "曲腿至胸"
+    },
+    {
+      "label": "on_stomach",
+      "value": "on_stomach",
+      "cn": "趴着"
+    },
+    {
+      "label": "kneeling",
+      "value": "kneeling",
+      "cn": "下跪"
+    },
+    {
+      "label": "indian_style",
+      "value": "indian_style",
+      "cn": "盘腿"
+    }
+  ],
+  "发色": [
+    {
+      "label": "grey hair",
+      "value": "grey hair",
+      "cn": "灰发"
+    },
+    {
+      "label": "green hair",
+      "value": "green hair",
+      "cn": "绿发"
+    },
+    {
+      "label": "purple hair",
+      "value": "purple hair",
+      "cn": "紫发"
+    },
+    {
+      "label": "yellow hair",
+      "value": "yellow hair",
+      "cn": "黄发"
+    },
+    {
+      "label": "blonde hair",
+      "value": "blonde hair",
+      "cn": "金发"
+    },
+    {
+      "label": "white hair",
+      "value": "white hair",
+      "cn": "白发"
+    },
+    {
+      "label": "red hair",
+      "value": "red hair",
+      "cn": "红发"
+    },
+    {
+      "label": "brown hair",
+      "value": "brown hair",
+      "cn": "棕发"
+    },
+    {
+      "label": "blue hair",
+      "value": "blue hair",
+      "cn": "蓝发"
+    },
+    {
+      "label": "silver hair",
+      "value": "silver hair",
+      "cn": "银发"
+    },
+    {
+      "label": "azure hair",
+      "value": "azure hair",
+      "cn": "蓝发"
+    },
+    {
+      "label": "black hair",
+      "value": "black hair",
+      "cn": "黑发"
+    }
+  ],
+  "场景": [
+    {
+      "label": "beautiful detailed starry sky",
+      "value": "beautiful detailed starry sky",
+      "cn": "细节的天空"
+    },
+    {
+      "label": "detailed ice",
+      "value": "detailed ice",
+      "cn": "细节的冰"
+    },
+    {
+      "label": "bright stars",
+      "value": "bright stars",
+      "cn": "璀璨星空"
+    },
+    {
+      "label": "castle",
+      "value": "castle",
+      "cn": "城堡"
+    },
+    {
+      "label": "indoor",
+      "value": "indoor",
+      "cn": "室内"
+    },
+    {
+      "label": "starry sky",
+      "value": "starry sky",
+      "cn": "星空"
+    },
+    {
+      "label": "beautiful and delicate water",
+      "value": "beautiful and delicate water",
+      "cn": "美丽而精致的水"
+    },
+    {
+      "label": "river",
+      "value": "river",
+      "cn": "河"
+    },
+    {
+      "label": "grove",
+      "value": "grove",
+      "cn": "树林"
+    },
+    {
+      "label": "flowers",
+      "value": "flowers",
+      "cn": "鲜花"
+    },
+    {
+      "label": "sandbeach",
+      "value": "sandbeach",
+      "cn": "沙滩"
+    },
+    {
+      "label": "flowering shrubs",
+      "value": "flowering shrubs",
+      "cn": "花丛"
+    },
+    {
+      "label": "curtain",
+      "value": "curtain",
+      "cn": "窗帘"
+    },
+    {
+      "label": "world masterpiece theater",
+      "value": "world masterpiece theater",
+      "cn": "世界杰作剧院"
+    },
+    {
+      "label": "bed",
+      "value": "bed",
+      "cn": "床"
+    },
+    {
+      "label": "chair",
+      "value": "chair",
+      "cn": "椅子"
+    },
+    {
+      "label": "flowery meadow",
+      "value": "flowery meadow",
+      "cn": "繁花草甸"
+    },
+    {
+      "label": "shine",
+      "value": "shine",
+      "cn": "闪耀"
+    },
+    {
+      "label": "nature",
+      "value": "nature",
+      "cn": "自然"
+    },
+    {
+      "label": "seaside",
+      "value": "seaside",
+      "cn": "海边"
+    },
+    {
+      "label": "forest",
+      "value": "forest",
+      "cn": "森林"
+    },
+    {
+      "label": "beach",
+      "value": "beach",
+      "cn": "海滩"
+    },
+    {
+      "label": "desert",
+      "value": "desert",
+      "cn": "沙漠"
+    },
+    {
+      "label": "city",
+      "value": "city",
+      "cn": "城市"
+    },
+    {
+      "label": "street",
+      "value": "street",
+      "cn": "街道"
+    },
+    {
+      "label": "room",
+      "value": "room",
+      "cn": "房间"
+    },
+    {
+      "label": "bedroom",
+      "value": "bedroom",
+      "cn": "卧室"
+    },
+    {
+      "label": "living room",
+      "value": "living room",
+      "cn": "客厅"
+    },
+    {
+      "label": "classroom",
+      "value": "classroom",
+      "cn": "教室"
+    },
+    {
+      "label": "school",
+      "value": "school",
+      "cn": "学校"
+    },
+    {
+      "label": "library",
+      "value": "library",
+      "cn": "图书馆"
+    },
+    {
+      "label": "park",
+      "value": "park",
+      "cn": "公园"
+    },
+    {
+      "label": "garden",
+      "value": "garden",
+      "cn": "花园"
+    },
+    {
+      "label": "space",
+      "value": "space",
+      "cn": "太空"
+    },
+    {
+      "label": "underwater",
+      "value": "underwater",
+      "cn": "水下"
+    },
+    {
+      "label": "ruins",
+      "value": "ruins",
+      "cn": "废墟"
+    },
+    {
+      "label": "cyberpunk city",
+      "value": "cyberpunk city",
+      "cn": "赛博朋克城市"
+    },
+    {
+      "label": "fantasy world",
+      "value": "fantasy world",
+      "cn": "幻想世界"
+    },
+    {
+      "label": "snow",
+      "value": "snow",
+      "cn": "雪"
+    }
+  ],
+  "胸": [
+    {
+      "label": "medium_breasts",
+      "value": "medium_breasts",
+      "cn": "中胸"
+    },
+    {
+      "label": "small breasts",
+      "value": "small breasts",
+      "cn": "小胸"
+    },
+    {
+      "label": "big breasts",
+      "value": "big breasts",
+      "cn": "大胸"
+    }
+  ],
+  "腿部": [
+    {
+      "label": "leggings",
+      "value": "leggings",
+      "cn": "紧身裤"
+    },
+    {
+      "label": "thighband pantyhose",
+      "value": "thighband pantyhose",
+      "cn": "大腿连裤袜"
+    },
+    {
+      "label": "ankle_lace-up",
+      "value": "ankle_lace-up",
+      "cn": "腿部系带"
+    },
+    {
+      "label": "thigh strap",
+      "value": "thigh strap",
+      "cn": "大腿系带"
+    },
+    {
+      "label": "leg_garter",
+      "value": "leg_garter",
+      "cn": "腿部花边环"
+    },
+    {
+      "label": "legwear under shorts",
+      "value": "legwear under shorts",
+      "cn": "短裤下的紧身裤"
+    },
+    {
+      "label": "black leggings",
+      "value": "black leggings",
+      "cn": "黑色紧身裤"
+    },
+    {
+      "label": "lace-trimmed legwear",
+      "value": "lace-trimmed legwear",
+      "cn": "蕾丝镶边紧身裤"
+    },
+    {
+      "label": "pantyhose",
+      "value": "pantyhose",
+      "cn": "连裤袜"
+    }
+  ],
+  "视角": [
+    {
+      "label": "full body",
+      "value": "full body",
+      "cn": "全身"
+    },
+    {
+      "label": "dynamic angle",
+      "value": "dynamic angle",
+      "cn": "动态角度"
+    },
+    {
+      "label": "very_close_to_viewers",
+      "value": "very_close_to_viewers",
+      "cn": "非常接近观众"
+    },
+    {
+      "label": "dramatic_angle",
+      "value": "dramatic_angle",
+      "cn": "戏剧性角度"
+    },
+    {
+      "label": "from behind",
+      "value": "from behind",
+      "cn": "从后面"
+    },
+    {
+      "label": "from above",
+      "value": "from above",
+      "cn": "从上面"
+    },
+    {
+      "label": "from back",
+      "value": "from back",
+      "cn": "从背面"
+    },
+    {
+      "label": "from below",
+      "value": "from below",
+      "cn": "从下面"
+    },
+    {
+      "label": "from side",
+      "value": "from side",
+      "cn": "从侧面"
+    }
+  ],
+  "动物": [
+    {
+      "label": "butterfly",
+      "value": "butterfly",
+      "cn": "蝴蝶"
+    },
+    {
+      "label": "cat",
+      "value": "cat",
+      "cn": "猫"
+    },
+    {
+      "label": "elephant",
+      "value": "elephant",
+      "cn": "大象"
+    },
+    {
+      "label": "rabbit",
+      "value": "rabbit",
+      "cn": "兔子"
+    },
+    {
+      "label": "fox",
+      "value": "fox",
+      "cn": "狐狸"
+    },
+    {
+      "label": "tiger",
+      "value": "tiger",
+      "cn": "老虎"
+    },
+    {
+      "label": "lion",
+      "value": "lion",
+      "cn": "狮子"
+    },
+    {
+      "label": "panda",
+      "value": "panda",
+      "cn": "熊猫"
+    },
+    {
+      "label": "sheep",
+      "value": "sheep",
+      "cn": "绵羊"
+    },
+    {
+      "label": "goat",
+      "value": "goat",
+      "cn": "山羊"
+    },
+    {
+      "label": "mouse",
+      "value": "mouse",
+      "cn": "老鼠"
+    },
+    {
+      "label": "hamster",
+      "value": "hamster",
+      "cn": "仓鼠"
+    },
+    {
+      "label": "frog",
+      "value": "frog",
+      "cn": "青蛙"
+    },
+    {
+      "label": "shark",
+      "value": "shark",
+      "cn": "鲨鱼"
+    },
+    {
+      "label": "whale",
+      "value": "whale",
+      "cn": "鲸鱼"
+    },
+    {
+      "label": "dolphin",
+      "value": "dolphin",
+      "cn": "海豚"
+    },
+    {
+      "label": "octopus",
+      "value": "octopus",
+      "cn": "章鱼"
+    },
+    {
+      "label": "jellyfish",
+      "value": "jellyfish",
+      "cn": "水母"
+    },
+    {
+      "label": "spider",
+      "value": "spider",
+      "cn": "蜘蛛"
+    },
+    {
+      "label": "bat",
+      "value": "bat",
+      "cn": "蝙蝠"
+    },
+    {
+      "label": "penguin",
+      "value": "penguin",
+      "cn": "企鹅"
+    }
+  ],
+  "": [
+    {
+      "label": "dog",
+      "value": "dog",
+      "cn": "鐙?鍔ㄧ墿"
+    },
+    {
+      "label": "wolf",
+      "value": "wolf",
+      "cn": "鐙?鍔ㄧ墿"
+    },
+    {
+      "label": "bear",
+      "value": "bear",
+      "cn": "鐔?鍔ㄧ墿"
+    },
+    {
+      "label": "bird",
+      "value": "bird",
+      "cn": "楦?鍔ㄧ墿"
+    },
+    {
+      "label": "eagle",
+      "value": "eagle",
+      "cn": "楣?鍔ㄧ墿"
+    },
+    {
+      "label": "owl",
+      "value": "owl",
+      "cn": "鐚ご楣?鍔ㄧ墿"
+    },
+    {
+      "label": "snake",
+      "value": "snake",
+      "cn": "铔?鍔ㄧ墿"
+    },
+    {
+      "label": "dragon",
+      "value": "dragon",
+      "cn": "榫?鍔ㄧ墿"
+    },
+    {
+      "label": "horse",
+      "value": "horse",
+      "cn": "椹?鍔ㄧ墿"
+    },
+    {
+      "label": "unicorn",
+      "value": "unicorn",
+      "cn": "鐙鍏?鍔ㄧ墿"
+    },
+    {
+      "label": "deer",
+      "value": "deer",
+      "cn": "楣?鍔ㄧ墿"
+    },
+    {
+      "label": "cow",
+      "value": "cow",
+      "cn": "鐗?鍔ㄧ墿"
+    },
+    {
+      "label": "pig",
+      "value": "pig",
+      "cn": "鐚?鍔ㄧ墿"
+    },
+    {
+      "label": "fish",
+      "value": "fish",
+      "cn": "楸?鍔ㄧ墿"
+    }
+  ]
+}

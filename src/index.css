@@ -1,0 +1,238 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ 
+@layer base {
+  :root {
+    /* UI/UX Pro Max V3 - Light Mode Default */
+    --background: 0 0% 98%;      /* #FAFAFA */
+    --foreground: 0 0% 5%;       /* #0D0D0D */
+
+    --card: 0 0% 100%;           /* #FFFFFF */
+    --card-foreground: 0 0% 10%;
+
+    --popover: 0 0% 100%;        /* #FFFFFF */
+    --popover-foreground: 0 0% 10%;
+
+    --primary: 51 90% 45%;       /* Slightly darker gold for light mode text contrast */
+    --primary-foreground: 0 0% 98%;
+
+    --secondary: 210 40% 96%;    /* Very light gray/blue */
+    --secondary-foreground: 0 0% 15%;
+
+    --muted: 210 40% 96%;
+    --muted-foreground: 215 16% 47%;
+
+    --accent: 189 80% 45%;       /* Tech Blue */
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 51 90% 45%;
+
+    --radius: 0.75rem;
+
+    /* Light Theme Pro Max V3 Material System */
+    --shadow-glass: 0 8px 32px 0 rgba(0, 0, 0, 0.08); /* Softer shadow */
+    --shadow-neon-primary: 0 0 20px -5px rgba(255, 215, 0, 0.3); 
+    --border-glass-highlight: inset 0 1px 1px rgba(255, 255, 255, 0.5); /* Stronger white highlight */
+    --panel-bg: rgba(255, 255, 255, 0.6); /* For frosted glass backgrounds */
+  }
+
+  .dark {
+    /* UI/UX Pro Max V3 - Dark Mode (Original) */
+    --background: 0 0% 5%;       /* #0D0D0D */
+    --foreground: 0 0% 95%;      /* #F2F2F2 */
+
+    --card: 0 0% 10%;            /* #1A1A1A */
+    --card-foreground: 0 0% 95%;
+
+    --popover: 0 0% 10%;         /* #1A1A1A */
+    --popover-foreground: 0 0% 95%;
+
+    --primary: 51 100% 50%;      /* #FFD700 Gold */
+    --primary-foreground: 0 0% 10%;
+
+    --secondary: 0 0% 15%;       /* Slightly lighter than card */
+    --secondary-foreground: 0 0% 95%;
+
+    --muted: 0 0% 15%;
+    --muted-foreground: 0 0% 60%;
+
+    --accent: 189 100% 50%;      /* #00D9FF Tech Blue */
+    --accent-foreground: 0 0% 10%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 0 0% 20%;
+    --input: 0 0% 20%;
+    --ring: 51 100% 50%;
+
+    /* Dark Theme Pro Max V3 Material System */
+    --shadow-glass: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    --shadow-neon-primary: 0 0 20px -5px rgba(255, 215, 0, 0.5); /* Gold glow */
+    --border-glass-highlight: inset 0 1px 1px rgba(255, 255, 255, 0.15);
+    --panel-bg: rgba(0, 0, 0, 0.4); /* Normal dark glass */
+  }
+}
+ 
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+
+  /* Mini Window Mode - Force Transparency on html/body but black on #root */
+  html.mini-window,
+  html.mini-window body {
+    background-color: transparent !important;
+    background: transparent !important;
+  }
+  /* Keep #root BLACK to mask WebView's white background at rounded corners */
+  html.mini-window #root {
+    background-color: #000 !important;
+    background: #000 !important;
+    border-radius: 16px !important; /* Match rounded-2xl */
+    overflow: hidden !important;
+  }
+
+  /* Hide scrollbars in Mini Mode */
+  html.mini-window,
+  html.mini-window body,
+  html.mini-window #root,
+  html.mini-window * {
+    scrollbar-width: none !important; /* Firefox */
+    -ms-overflow-style: none !important; /* IE/Edge */
+  }
+  html.mini-window::-webkit-scrollbar,
+  html.mini-window *::-webkit-scrollbar {
+    display: none !important; /* Chrome/Safari */
+    width: 0 !important;
+    height: 0 !important;
+  }
+}
+
+@layer utilities {
+  .glass {
+    @apply bg-black/40 backdrop-blur-md border border-white/10 shadow-xl;
+  }
+  .glass-card {
+    @apply bg-card/60 backdrop-blur-sm border border-border/50;
+  }
+}
+
+/* Modern Scrollbar - Premium Glass/Dark Theme Adapted */
+::-webkit-scrollbar {
+  width: 10px; /* Wider to accommodate padding */
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: hsl(var(--muted-foreground) / 0.3);
+  border-radius: 9999px;
+  border: 3px solid transparent; /* Creates the padding effect */
+  background-clip: content-box; /* Only color the content inside the border */
+  transition: background-color 0.2s ease;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: hsl(var(--muted-foreground) / 0.5);
+}
+
+::-webkit-scrollbar-corner {
+  background: transparent;
+}
+
+/* For Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: hsl(var(--muted-foreground) / 0.3) transparent;
+}
+
+/* Hide native scrollbar for Radix ScrollArea to prevent overlapping */
+[data-radix-scroll-area-viewport] {
+  scrollbar-width: none !important; /* Firefox */
+  -ms-overflow-style: none !important; /* IE/Edge */
+}
+[data-radix-scroll-area-viewport]::-webkit-scrollbar {
+  display: none !important; /* Chrome/Safari */
+  width: 0 !important;
+  height: 0 !important;
+}
+
+/* 移动端图库入场动画 — 替代 framer-motion 的 spring 动画 */
+@keyframes gallery-fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* 图库项容器 — 浏览器级别懒渲染优化 */
+.gallery-item-container {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 200px;
+}
+
+html[data-nai-generating="true"] *,
+html[data-nai-generating="true"] *::before,
+html[data-nai-generating="true"] *::after {
+  animation: none !important;
+  transition: none !important;
+  filter: none !important;
+  backdrop-filter: none !important;
+  -webkit-backdrop-filter: none !important;
+  box-shadow: none !important;
+  text-shadow: none !important;
+  scroll-behavior: auto !important;
+}
+
+html[data-nai-cpu-lite="true"] *,
+html[data-nai-cpu-lite="true"] *::before,
+html[data-nai-cpu-lite="true"] *::after {
+  animation: none !important;
+  transition: none !important;
+  filter: none !important;
+  backdrop-filter: none !important;
+  -webkit-backdrop-filter: none !important;
+  box-shadow: none !important;
+  text-shadow: none !important;
+  scroll-behavior: auto !important;
+}
+
+html[data-nai-cpu-lite="true"] .nai-background-blobs {
+  display: none !important;
+}
+
+html[data-nai-cpu-lite="true"] .bg-gradient-to-r,
+html[data-nai-cpu-lite="true"] .bg-gradient-to-br,
+html[data-nai-cpu-lite="true"] .bg-gradient-to-b {
+  background-image: none !important;
+}
+
+html[data-nai-cpu-lite="true"] .from-primary,
+html[data-nai-cpu-lite="true"] .to-amber-500 {
+  background-color: hsl(var(--primary)) !important;
+}
+
+html[data-nai-hide-images="true"] img {
+  visibility: hidden !important;
+}
+
+html[data-nai-hide-gallery="true"] [data-nai-gallery-panel] {
+  display: none !important;
+}

@@ -1,0 +1,18 @@
+name = "nais2-sync-worker"
+main = "src/index.ts"
+compatibility_date = "2024-01-01"
+
+# D1 Database Binding
+[[d1_databases]]
+binding = "DB"
+database_name = "nais2-db"
+database_id = "REPLACE_WITH_D1_DATABASE_ID"
+
+[vars]
+# QQ Connect Config (Replace in Cloudflare Dashboard for security, or here for dev)
+QQ_APP_ID = "REPLACE_WITH_APP_ID"
+QQ_APP_KEY = "REPLACE_WITH_APP_KEY"
+# Redirect URI (Must match what you set in QQ Connect)
+REDIRECT_URI = "https://your-worker-subdomain.workers.dev/auth/qq/callback"
+# App Deep Link Scheme
+APP_SCHEME = "nais2://auth-callback"

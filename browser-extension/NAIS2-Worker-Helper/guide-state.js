@@ -1,0 +1,15 @@
+window.NAIS2_CF_GUIDE_STATE = {
+  currentStepIndex: 0,
+  mutationObserver: null,
+  retryTimer: null,
+  panelStatusMessage: '',
+  currentTarget: null,
+  currentConfidence: 'low',
+  currentConfidenceReason: '',
+  mediumConfidenceConfirmed: false,
+  eventCounter: 0,
+  recentEvents: [],
+  editorFocused: false,
+  waitingForManualSelectAll: false,
+  skippedStepsLog: [],
+}

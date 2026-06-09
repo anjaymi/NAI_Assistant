@@ -1,0 +1,114 @@
+# ===========================
+# NAI Assistant .gitignore
+# ===========================
+
+# --- Dependencies ---
+node_modules/
+.pnp
+.pnp.js
+
+# --- Build Outputs ---
+dist/
+dist-ssr/
+build/
+*.local
+*.tsbuildinfo
+
+# --- Tauri ---
+src-tauri/target/
+src-tauri/binaries/*.exe
+src-tauri/2
+src-tauri/debug_build.bat
+src-tauri/**/*.log
+src-tauri/**/build_log.txt
+src-tauri/**/debug_log*.txt
+src-tauri/**/error_block.txt
+src-tauri/**/final_build.log
+src-tauri/**/fresh_build.log
+src-tauri/**/manual_build.log
+src-tauri/**/tail.txt
+src-tauri/**/tasks.txt
+src-tauri/gen/android/.gradle/
+src-tauri/gen/android/build/
+src-tauri/gen/android/app/build/
+src-tauri/gen/android/app/src/main/assets/
+src-tauri/gen/android/local.properties
+src-tauri/gen/android/keystore.properties
+src/assets/tags-shards/
+
+# --- Environment & Secrets ---
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+*.p12
+*.pfx
+keystore.properties
+
+# --- IDE / Editor ---
+.cursorrules
+.agent/
+.agents/
+.claude/
+.codex/
+.cursor/
+.gemini/
+.kiro/
+.roo/
+.shared/
+.windsurf/
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# --- Debug / Temp Logs ---
+*.log
+*.log.*
+temp_*
+test_chunk
+
+# --- OS ---
+.DS_Store
+desktop.ini
+
+# --- Backup ---
+_backup/
+_backup_*/
+explore/
+genesis/
+
+# --- Local duplicate/source snapshots ---
+plugins/
+/DesktopLayout.tsx
+/GlassLayout.tsx
+/Header.tsx
+/MobileSettingsPanel.tsx
+/SettingsDialog.tsx
+/ShortcutSettingsPanel.tsx
+/SyncSettingsPanel.tsx
+/SystemSettingsPanel.tsx
+test-push.mjs
+*.zip
+.github/prompts/
+browser-extension/NAIS2-Worker-Helper (2)/
+browser-extension/worker-import/
+
+# --- Plugins build output ---
+plugins/*/dist/
+plugins/*/node_modules/
+
+# --- Workers ---
+worker/dist/
+worker/.wrangler/
+worker/node_modules/
+worker-cloud-airdrop/dist/
+worker-cloud-airdrop/.wrangler/
+worker-cloud-airdrop/node_modules/
+worker-cloud-airdrop/*_out.txt
+worker-cloud-airdrop/*_err*.log
+worker-cloud-airdrop/list.json
